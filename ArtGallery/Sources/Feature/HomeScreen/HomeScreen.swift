@@ -13,6 +13,8 @@ struct HomeScreen: View {
         .provideHomeViewModel()
       
       @State var query: String = ""
+    
+    @EnvironmentObject var navigationState: NavigationState
 
       private let columns = [
         GridItem(.flexible(minimum: 40)),
@@ -76,9 +78,14 @@ struct HomeScreen: View {
               Array(viewModel.viewState.gallery.enumerated()), id: \.element.id
             ) { index, image in
               ZStack {
-                showImage(image.imageId ?? "")
+                  showImage(image.imageId ?? "")
+                    
               }.onAppear {
                 viewModel.checkIfLoadNext(image.id)
+              }
+              .onTapGesture {
+                  print("===== TAP TAP")
+                  navigationState.routes.append(.detail(gallery: image, imageUrl: viewModel.viewState.imageUrl))
               }
             }
           }.padding(.horizontal, 4)

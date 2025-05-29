@@ -31,7 +31,9 @@ let project = Project(
             infoPlist: .default,
             sources: ["ArtGallery/Tests/**"],
             resources: [],
-            dependencies: [.target(name: "ArtGallery")]
+            dependencies: [
+                .target(name: "ArtGallery")
+            ]
         ),
     ]
 )

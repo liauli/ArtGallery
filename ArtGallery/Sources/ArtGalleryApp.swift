@@ -1,11 +1,20 @@
 import SwiftUI
 
+enum Route: Hashable {
+    case detail(gallery: Gallery, imageUrl: String)
+}
+class NavigationState: ObservableObject {
+    @Published var routes: [Route] = []
+}
+
 @main
 struct ArtGalleryApp: App {
+    @StateObject private var navigationState = NavigationState()
+    
     var body: some Scene {
         WindowGroup {
             //ContentView()
-            NavigationStack {
+            NavigationStack(path: $navigationState.routes) {
                 TabView {
                     ForEach(GalleryTab.allCases) { tab in
                         tab.screen
@@ -14,7 +23,16 @@ struct ArtGalleryApp: App {
                             .toolbarBackground(Color.red, for: .tabBar)
                             .toolbarBackground(.visible, for: .tabBar)
                     }
-                }.tint(.white)
+                }
+                .tint(.white)
+                .environmentObject(navigationState)
+                .navigationDestination(for: Route.self) { route in
+                    switch route {
+                        case .detail(let gallery, let imageUrl):
+                        DetailScreen(galleryInfo: gallery, imageUrl: imageUrl)
+                    }
+                }
+                                   
             }
         }
     }

@@ -20,7 +20,11 @@ protocol APIService {
 
 class APIServiceImpl: APIService {
   private let baseApi = "https://api.artic.edu/api/v1/artworks"
-  private let apiFields = "fields=id,image_id"
+  private let apiFields: [String] = [
+    "id",
+    "image_id",
+    "credit_line", "description", "short_description", "publication_history", "exhibition_history", "artist_title", "place_of_origin", "provenance_text"
+  ]
   private let apiLimit = "limit=\(ApiConstant.ApiLimit)"
   private let urlSession: URLSession
 
@@ -29,7 +33,7 @@ class APIServiceImpl: APIService {
   }
 //credit_line, description, short_description, publication_history, exhibition_history, artist_title, place_of_origin, provenance_text
   func fetchGalleryItems(_ page: Int) -> AnyPublisher<GalleryResponse, Error> {
-    guard let url = URL(string: "\(baseApi)?\(apiLimit)&\(apiFields)&page=\(page)") else {
+      guard let url = URL(string: "\(baseApi)?\(apiLimit)&fields=\(apiFields.joined(separator: ","))&page=\(page)") else {
         
       return Fail(error: ApiError.wrongPath).eraseToAnyPublisher()
     }
@@ -38,7 +42,7 @@ class APIServiceImpl: APIService {
   }
   
   func searchGallery(_ query: String, _ page: Int) -> AnyPublisher<GalleryResponse, Error> {
-    guard let url = URL(string: "\(baseApi)?q=\(query)&\(apiFields)&\(apiLimit)&page=\(page)") else {
+    guard let url = URL(string: "\(baseApi)?q=\(query)&fields=\(apiFields.joined(separator: ","))&\(apiLimit)&page=\(page)") else {
         
       return Fail(error: ApiError.wrongPath).eraseToAnyPublisher()
     }
