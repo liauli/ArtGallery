@@ -1,0 +1,118 @@
+name: run-tests
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  setup:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' 
+          bundler-cache: true
+      - name: Install dependencies
+        run: bundle install
+      - name: Cache Build
+        id: cache-build
+        uses: actions/cache/save@v3
+        with:
+          path: ./
+          key: ${{ github.sha }}-setup
+
+  test:
+    needs: setup  
+    runs-on: macos-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        id: restore-build
+        with:
+          path: ./
+          key: ${{ github.sha }}-setup
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' 
+          bundler-cache: true
+      - name: Install tuist
+        run: brew install --formula tuist
+      - name: Install tuist
+        run: tuist install
+      - name: Generate tuist
+        run: tuist generate
+      - name: Run Fastlane tests
+        run: bundle exec fastlane unit_tests
+        
+      - name: Convert Coverage to SonarQube Format
+        run: |
+          ls
+          mkdir -p coverage
+          bash ./scripts/xccov-to-sonarqube-generic.sh ./test_output/ArtGallery.xcresult/ > coverage/sonarqube-generic-coverage.xml
+      - name: Archive code coverage results
+        uses: actions/upload-artifact@v4
+        with:
+          name: sonar coverage in workspace
+          path: ./.github/workspace/sonarqube-generic-coverage.xml
+      - name: Archive code coverage
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcresult
+          path: ./test_output/ArtGallery.xcresult
+      - name: Archive conversion
+        uses: actions/upload-artifact@v4
+        with:
+          name: coverage
+          path: ./coverage/sonarqube-generic-coverage.xml
+      - name: Cache Build
+        id: cache-build
+        uses: actions/cache/save@v3
+        with:
+          path: ./
+          key: ${{ github.sha }}-test
+      
+
+  sonar:
+    name: SonarQube Analysis
+    needs: test  
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - uses: actions/cache/restore@v3
+        id: restore-build
+        with:
+          path: ./
+          key: ${{ github.sha }}-test
+      - name: SonarQube Cloud Scan
+        uses: SonarSource/sonarcloud-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
+          SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
+
+  lint:
+    needs: setup 
+    runs-on: macos-latest
+    steps:
+      - uses: actions/cache/restore@v3
+        id: restore-build
+        with:
+          path: ./
+          key: ${{ github.sha }}-setup
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0' 
+          bundler-cache: true
+      - name: Install swiftlint
+        run: brew install swiftlint
+      - name: Run Fastlane lint
+        run: bundle exec fastlane lint

@@ -1,0 +1,9 @@
+disabled_rules:
+  - trailing_whitespace
+
+included: 
+  - AbangBakso
+  - AbangBaksoTests
+excluded: 
+  - Pods
+  - AbangBaksoTests/Mock.generated.swift
