@@ -23,6 +23,7 @@ struct Gallery: Codable, Equatable, Hashable {
     let artistTitle: String?
     let placeOfOrigin: String?
     let provenanceText: String?
+    let title: String?
     
     func toSavedGallery() -> SavedGallery {
         return SavedGallery(
@@ -35,7 +36,7 @@ struct Gallery: Codable, Equatable, Hashable {
             exhibitionHistory: exhibitionHistory,
             artistTitle: artistTitle,
             placeOfOrigin: placeOfOrigin,
-            provenanceText: provenanceText
+            provenanceText: provenanceText, title: title
         )
     }
 }
@@ -52,8 +53,9 @@ class SavedGallery {
     var artistTitle: String?
     var placeOfOrigin: String?
     var provenanceText: String?
+    var title: String?
     
-    init(id: Int, imageId: String? = nil, creditLine: String? = nil, desc: String? = nil, shortDescription: String? = nil, publicationHistory: String? = nil, exhibitionHistory: String? = nil, artistTitle: String? = nil, placeOfOrigin: String? = nil, provenanceText: String? = nil) {
+    init(id: Int, imageId: String? = nil, creditLine: String? = nil, desc: String? = nil, shortDescription: String? = nil, publicationHistory: String? = nil, exhibitionHistory: String? = nil, artistTitle: String? = nil, placeOfOrigin: String? = nil, provenanceText: String? = nil, title: String?) {
         self.id = id
         self.imageId = imageId
         self.creditLine = creditLine
@@ -64,6 +66,11 @@ class SavedGallery {
         self.artistTitle = artistTitle
         self.placeOfOrigin = placeOfOrigin
         self.provenanceText = provenanceText
+        self.title = title
+    }
+    
+    func toGallery() -> Gallery {
+        return Gallery(id: id, imageId: imageId, creditLine: creditLine, desc: desc, shortDescription: shortDescription, publicationHistory: publicationHistory, exhibitionHistory: exhibitionHistory, artistTitle: artistTitle, placeOfOrigin: placeOfOrigin, provenanceText: provenanceText, title: title)
     }
 }
 

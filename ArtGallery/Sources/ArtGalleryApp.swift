@@ -1,4 +1,5 @@
 import SwiftUI
+import SwiftData
 
 enum Route: Hashable {
     case detail(gallery: Gallery, imageUrl: String)
@@ -34,7 +35,7 @@ struct ArtGalleryApp: App {
                 }
                                    
             }
-        }
+        }.modelContainer(for: [SavedGallery.self])
     }
 }
 
@@ -52,7 +53,7 @@ extension GalleryTab {
         case .home:
             Label("Home", systemImage: "house").background(.white)
         case .saved:
-            Label("Saved", systemImage: "download")
+            Label("Saved", systemImage: "tray.and.arrow.down.fill")
         }
     }
     
@@ -62,7 +63,7 @@ extension GalleryTab {
         case .home:
             HomeScreen()
         case .saved:
-            Text("Saved")
+            SavedScreen()
         }
     }
 }

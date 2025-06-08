@@ -1,0 +1,2924 @@
+{
+  "pagination": {
+    "total": 122992,
+    "limit": 15,
+    "offset": 0,
+    "total_pages": 8200,
+    "current_page": 1,
+    "next_url": "https://api.artic.edu/api/v1/artworks?page=2&limit=15"
+  },
+  "data": [
+    {
+      "id": 144356,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/144356",
+      "is_boosted": false,
+      "title": "CARVING: A Traditional Sculpture",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAIqIho+Mi5yYlKGdnKqnpMK+u8rGw87KxtDLyNDMyNXQzdbRztnV0NrV0dzX0t3Z1OPf2uzn4e3o4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NMsR+QIisQAhgQNSFIERAgAOw==",
+        "width": 3604,
+        "height": 5088,
+        "alt_text": "A work made of 148 gelatin silver prints and text panel."
+      },
+      "main_reference_number": "1996.44",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1972,
+      "date_end": 1972,
+      "date_display": "1972",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Eleanor Antin\nAmerican, born 1935",
+      "place_of_origin": "United States",
+      "description": "<p>A landmark early feminist work, Eleanor Antin\u2019s <em>Carving: A Traditional Sculpture</em> comprises 148 black-and-white photographs documenting the artist\u2019s loss of 10 pounds over 37 days. Every morning she was photographed naked in the same four stances to record her barely perceptible self-induced weight loss. (The photographs from each day are arranged vertically, and the entire process can be read horizontally, like a filmstrip.) Antin\u2019s performance purposely toyed with the traditional process of Greek sculptors, who were said to find their ideal form by chipping away at a block of marble and discarding any unnecessary material. The artist\u2019s idea of \u201ccarving\u201d her own body was inspired by an invitation from the Whitney Museum of Art for its biennial survey exhibition, which at the time restricted itself to the established categories of painting and sculpture, though this work was considered too conceptual for the exhibition.</p>\n",
+      "dimensions": "Each photograph: 17.7 \u00d7 12.7 cm (7 \u00d7 5 in.); Text panel: 39.4 \u00d7 26 cm (15 1/2 \u00d7 10 1/4 in.); Installed: 79.4 \u00d7 518.2 cm (31 5/16 \u00d7 204 1/16 in.); 79.4 \u00d7 518.2 cm (31 1/4 \u00d7 204 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 12.7,
+          "width_in": 5,
+          "height_cm": 17.7,
+          "height_in": 7,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Each photograph"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 26,
+          "width_in": 10.25,
+          "height_cm": 39.4,
+          "height_in": 15.5,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Text panel"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 518.2,
+          "width_in": 204.0158,
+          "height_cm": 79.4,
+          "height_in": 31.2599,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Installed"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 518.2,
+          "width_in": 204,
+          "height_cm": 79.4,
+          "height_in": 31.25,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "148 gelatin silver prints and text panel",
+      "inscriptions": null,
+      "credit_line": "Twentieth-Century Discretionary Fund",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 246,
+      "fiscal_year": 1996,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 5.1779,
+      "color": {
+        "h": 2,
+        "l": 42,
+        "s": 1,
+        "percentage": 0.02489389857600853,
+        "population": 247
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Contemporary Art",
+      "department_id": "PC-8",
+      "artist_id": 48647,
+      "artist_title": "Eleanor Antin",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        48647
+      ],
+      "artist_titles": [
+        "Eleanor Antin"
+      ],
+      "category_ids": [
+        "PC-8",
+        "PC-825"
+      ],
+      "category_titles": [
+        "Contemporary Art",
+        "Women artists"
+      ],
+      "term_titles": [
+        "photograph",
+        "modern and contemporary art",
+        "photography"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-240",
+      "classification_title": "photograph",
+      "alt_classification_ids": [
+        "TM-155",
+        "TM-67"
+      ],
+      "classification_ids": [
+        "TM-240",
+        "TM-155",
+        "TM-67"
+      ],
+      "classification_titles": [
+        "photograph",
+        "modern and contemporary art",
+        "photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Women artists"
+      ],
+      "image_id": "d42239f2-878e-f15e-e5fc-4a041eb4ab01",
+      "alt_image_ids": [
+        "1e5b16ca-a5b6-47a1-0025-fde28bfe9f6d"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1996.44"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "CARVING: A Traditional Sculpture"
+          ],
+          "weight": 16918,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T09:29:54-05:00",
+      "updated_at": "2023-10-06T09:30:56-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 102455,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/102455",
+      "is_boosted": false,
+      "title": "Bowl",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCQAFAPUAAFQ2HFc7JmRKO2JRR3BVQXRUQG5cUnVjVnNkWHtrYnVtaX53coZxZIh6cZd/cJqFd6+UecCjicCmjM/LytLOzdHPztfRz9bW1tvY19jY2N7c2+Dd2+Lh3+bm5efm5ejn5ufo6Onp6err7evs7Ovs7u3u7e/v7+/v8O/w8PDw8PHy8vb39wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAJAAUAAAYqwNDqY6FMNKqOZzFwMB4GBWeEAEAiEkIDVNocAgVBAjMyoUiXSkZ0SgUBADs=",
+        "width": 3000,
+        "height": 1688,
+        "alt_text": "A work made of copper with silver wash."
+      },
+      "main_reference_number": "1984.399",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1920,
+      "date_end": 1940,
+      "date_display": "1920\u201340",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "Falick Novick (American, born Russian Empire, 1878-1958)\nChicago",
+      "place_of_origin": "Chicago",
+      "description": null,
+      "dimensions": "6.3 \u00d7 22.5 cm (2 1/2 \u00d7 8 7/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 22.5,
+          "width_in": 8.875,
+          "height_cm": 6.3,
+          "height_in": 2.5,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Copper with silver wash",
+      "inscriptions": null,
+      "credit_line": "Gift of Pauline S. Armstrong",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 26.6892,
+      "color": {
+        "h": 40,
+        "l": 90,
+        "s": 4,
+        "percentage": 1.5581282440149955,
+        "population": 6226
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Decorative Arts",
+      "artwork_type_id": 8,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 32360,
+      "artist_title": "Falick Novick",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        32360
+      ],
+      "artist_titles": [
+        "Falick Novick"
+      ],
+      "category_ids": [
+        "PC-3"
+      ],
+      "category_titles": [
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "copper",
+        "bowl",
+        "Chicago",
+        "metalwork",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-11712",
+      "classification_title": "bowl",
+      "alt_classification_ids": [
+        "TM-29",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11712",
+        "TM-29",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "bowl",
+        "metalwork",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [],
+      "subject_ids": [
+        "TM-12075"
+      ],
+      "subject_titles": [
+        "Chicago"
+      ],
+      "material_id": "TM-2458",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2458"
+      ],
+      "material_titles": [
+        "copper"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "25ed2dd2-5b4d-3a5e-89e1-f67b493cc917",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1984.399"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Bowl"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T09:14:38-05:00",
+      "updated_at": "2023-10-06T09:15:55-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 100865,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/100865",
+      "is_boosted": false,
+      "title": "Bowl",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAAJCLh5SPi5aWlpeXl5mZmZmZmpmamp6bmZ2cm5+dnKCdm6Gem6OgnaKgnqKhoKWioaikoammo6qqqKurq6urrLWzsre2tMPExMfHx8jIyNPT09TU1ODh4eHi4uLi4uLi4+Pj4wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYkQAGhMBgYCoJJQiFxHBCUSwPAWAQelw2mEoFYMhoQ6MPpeMRBADs=",
+        "width": 3000,
+        "height": 1945,
+        "alt_text": "A work made of silver."
+      },
+      "main_reference_number": "1983.828",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1926,
+      "date_end": 1926,
+      "date_display": "1926",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Falick Novick (American, born Russian Empire, 1878-1958)\nChicago",
+      "place_of_origin": "Chicago",
+      "description": null,
+      "dimensions": "4.8 \u00d7 23.5 \u00d7 14.3 cm (1 7/8 \u00d7 9 1/4 \u00d7 5 5/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 14.3,
+          "depth_in": 5.625,
+          "width_cm": 23.5,
+          "width_in": 9.25,
+          "height_cm": 4.8,
+          "height_in": 1.875,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Silver",
+      "inscriptions": "marked on bottom in incised Roman capitals: STERLING/HA NDWROUGHT/By F. NOVICK/CHICAGO\"",
+      "credit_line": "Gift of Laura and Walter T. Fisher",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 4.3396,
+      "color": {
+        "h": 353,
+        "l": 82,
+        "s": 0,
+        "percentage": 0.17467704300444514,
+        "population": 804
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Decorative Arts",
+      "artwork_type_id": 8,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 32360,
+      "artist_title": "Falick Novick",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        32360
+      ],
+      "artist_titles": [
+        "Falick Novick"
+      ],
+      "category_ids": [
+        "PC-3"
+      ],
+      "category_titles": [
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "silver",
+        "bowl",
+        "Chicago",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-11712",
+      "classification_title": "bowl",
+      "alt_classification_ids": [
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_ids": [
+        "TM-11712",
+        "TM-161",
+        "TM-2190",
+        "TM-2191",
+        "TM-1678"
+      ],
+      "classification_titles": [
+        "bowl",
+        "silver",
+        "american decorative arts",
+        "american arts",
+        "decorative arts"
+      ],
+      "subject_id": "TM-12075",
+      "alt_subject_ids": [],
+      "subject_ids": [
+        "TM-12075"
+      ],
+      "subject_titles": [
+        "Chicago"
+      ],
+      "material_id": "TM-2436",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2436"
+      ],
+      "material_titles": [
+        "silver"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "91b89f5b-f445-b016-fa9d-159ebe6d6731",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1983.828"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Bowl"
+          ],
+          "weight": 42,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T09:14:38-05:00",
+      "updated_at": "2023-10-06T09:15:55-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 202076,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/202076",
+      "is_boosted": false,
+      "title": "Palm",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAALCsobu2q7y3rcG8sczHu9POwdTPwdbQw9nTxdnUx9rVx9zWyeHbzePczuPdz+Xf0fDq2/Ps3PPs3fbu3wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4NM0jEIsxTEICgIEBiRNUggAOw==",
+        "width": 8708,
+        "height": 11608,
+        "alt_text": "A work made of ink on paper."
+      },
+      "main_reference_number": "2022.325",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 2001,
+      "date_end": 2001,
+      "date_display": "2001",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Gabriel Orozco\nMexican, born 1962",
+      "place_of_origin": "Mexico",
+      "description": null,
+      "dimensions": "27.9 \u00d7 21.6 cm (11 \u00d7 8 9/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 21.6,
+          "width_in": 8.504,
+          "height_cm": 27.9,
+          "height_in": 10.9843,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Ink on paper",
+      "inscriptions": null,
+      "credit_line": "Gift of Donna and Howard Stone",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": 2022,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": {
+        "h": 45,
+        "l": 46,
+        "s": 4,
+        "percentage": 0.00010665464008629884,
+        "population": 70
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 63714,
+      "artist_title": "Gabriel Orozco",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        63714
+      ],
+      "artist_titles": [
+        "Gabriel Orozco"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "paper (fiber product)",
+        "drawing",
+        "prints and drawing",
+        "paper",
+        "ink"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-14658",
+      "classification_title": "drawing",
+      "alt_classification_ids": [
+        "TM-4",
+        "TM-145",
+        "TM-1627"
+      ],
+      "classification_ids": [
+        "TM-14658",
+        "TM-4",
+        "TM-145",
+        "TM-1627"
+      ],
+      "classification_titles": [
+        "drawing",
+        "prints and drawing",
+        "paper",
+        "ink"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2982"
+      ],
+      "material_titles": [
+        "paper (fiber product)"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "277c8a2a-5b64-6ca9-d36c-9f5550548507",
+      "alt_image_ids": [
+        "62292b7e-4cb9-2922-2fcc-4860dc65578b"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "2022.325"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Palm"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T08:59:01-05:00",
+      "updated_at": "2023-10-06T09:00:56-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 14293,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/14293",
+      "is_boosted": false,
+      "title": "Undine",
+      "alt_titles": null,
+      "thumbnail": null,
+      "main_reference_number": "1962.312",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1938,
+      "date_end": 1961,
+      "date_display": "c. 1938\u201361",
+      "date_qualifier_title": "c.",
+      "date_qualifier_id": 60,
+      "artist_display": "Marion Lukens (American, born Russian Empire, 1907\u20131961)",
+      "place_of_origin": "United States",
+      "description": null,
+      "dimensions": "H.: 109.9 cm (43 1/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 0,
+          "width_in": 0,
+          "height_cm": 109.9,
+          "height_in": 43.25,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Marble",
+      "inscriptions": null,
+      "credit_line": "Gift of Miss Petronel Lukens in memory of her sister, Marion",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 21,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": null,
+      "color": null,
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Sculpture",
+      "artwork_type_id": 3,
+      "department_title": "Arts of the Americas",
+      "department_id": "PC-3",
+      "artist_id": 15721,
+      "artist_title": "Marion Lukens",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        15721
+      ],
+      "artist_titles": [
+        "Marion Lukens"
+      ],
+      "category_ids": [
+        "PC-825",
+        "PC-3"
+      ],
+      "category_titles": [
+        "Women artists",
+        "Arts of the Americas"
+      ],
+      "term_titles": [
+        "sculpture",
+        "marble",
+        "modern and contemporary art"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-13",
+      "classification_title": "sculpture",
+      "alt_classification_ids": [
+        "TM-155"
+      ],
+      "classification_ids": [
+        "TM-13",
+        "TM-155"
+      ],
+      "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2435",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2435"
+      ],
+      "material_titles": [
+        "marble"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [
+        "Women artists"
+      ],
+      "image_id": null,
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1962.312"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Undine"
+          ],
+          "weight": 441,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-02T14:28:28-05:00",
+      "updated_at": "2023-10-06T09:00:55-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 258964,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/258964",
+      "is_boosted": false,
+      "title": "At Geel, near Nietverdiend, Marico Bushveld, Transvaal (North-West Province), December 1964",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhCAAFAPUAABMPEBQQERURERUSEhsZGRwZGR0aGx4bHB8cHSAdHiMgISQhISQhIiYjJC8sLDYzNTg1Nzo3OUA9P0VDREtJSVdVV2NhYmVjZGZlZW1rbHBub3NxcnVzdH17fH99faCenqCfn6Gfn6Khoayqq7Kxsenn5gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAIAAUAAAYlwMChQip9BoXB4cEZgQgCgEGxEXUYjkUCIaFYMqELpBGZaDCeIAA7",
+        "width": 10038,
+        "height": 6596,
+        "alt_text": "A work made of gelatin silver print."
+      },
+      "main_reference_number": "Obj: 258964",
+      "has_not_been_viewed_much": true,
+      "boost_rank": null,
+      "date_start": 1964,
+      "date_end": 1964,
+      "date_display": "1964",
+      "date_qualifier_title": "Made",
+      "date_qualifier_id": 4,
+      "artist_display": "David Goldblatt\nSouth African, 1930-2018",
+      "place_of_origin": null,
+      "description": null,
+      "dimensions": "Image: 21.1 \u00d7 32 cm (8 5/16 \u00d7 12 5/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 32,
+          "width_in": 12.5985,
+          "height_cm": 21.1,
+          "height_in": 8.3071,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Image"
+        }
+      ],
+      "medium_display": "Gelatin silver print",
+      "inscriptions": null,
+      "credit_line": "Art Institute of Chicago, Promised gift of Cecily Cameron and Derek Schrier",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 20,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": false,
+      "max_zoom_window_size": 843,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 2.2902,
+      "color": {
+        "h": 343,
+        "l": 50,
+        "s": 0,
+        "percentage": 0.00030508687968134674,
+        "population": 202
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Photograph",
+      "artwork_type_id": 2,
+      "department_title": "Photography and Media",
+      "department_id": "PC-12",
+      "artist_id": 107761,
+      "artist_title": "David Goldblatt",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        107761
+      ],
+      "artist_titles": [
+        "David Goldblatt"
+      ],
+      "category_ids": [
+        "PC-12"
+      ],
+      "category_titles": [
+        "Photography and Media"
+      ],
+      "term_titles": [
+        "photography",
+        "photography",
+        "photographic process",
+        "photograph",
+        "black-and-white photography",
+        "photographic print",
+        "photographic paper",
+        "photographic images",
+        "photographic film",
+        "photograph"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-67",
+      "classification_title": "photography",
+      "alt_classification_ids": [
+        "TM-68",
+        "TM-240",
+        "TM-14146"
+      ],
+      "classification_ids": [
+        "TM-67",
+        "TM-68",
+        "TM-240",
+        "TM-14146"
+      ],
+      "classification_titles": [
+        "photography",
+        "photographic process",
+        "photograph",
+        "black-and-white photography"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-14147",
+      "alt_material_ids": [
+        "TM-13906",
+        "TM-3046",
+        "TM-13158",
+        "TM-3438",
+        "TM-13858"
+      ],
+      "material_ids": [
+        "TM-14147",
+        "TM-13906",
+        "TM-3046",
+        "TM-13158",
+        "TM-3438",
+        "TM-13858"
+      ],
+      "material_titles": [
+        "photography",
+        "photographic print",
+        "photographic paper",
+        "photographic images",
+        "photographic film",
+        "photograph"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "96f7f0fb-cde0-6f01-6c6a-3742f53a6737",
+      "alt_image_ids": [
+        "811fc0d5-0912-25af-76d1-91cfd2491c52"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "Obj: 258964"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "At Geel, near Nietverdiend, Marico Bushveld, Transvaal (North-West Province), December 1964"
+          ],
+          "weight": 1,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T08:42:51-05:00",
+      "updated_at": "2023-10-06T08:45:56-05:00",
+      "timestamp": "2023-10-06T09:36:23-05:00"
+    },
+    {
+      "id": 6010,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/6010",
+      "is_boosted": false,
+      "title": "Number 19",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAKlyV6pyWqt2Xad9W654XYx+d6qMUqyRV5OCdqeAaa+DbLWIaLeLcLKKd7ePgAAAACH5BAAAAAAALAAAAAADAAUAAAQLUASAFClptHUcMxEAOw==",
+        "width": 16610,
+        "height": 10836,
+        "alt_text": "Blurry rectangles of yellow, gray, and black float against background of orange."
+      },
+      "main_reference_number": "1957.308",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1949,
+      "date_end": 1949,
+      "date_display": "1949",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Mark Rothko (Marcus Rothkowitz)\nAmerican, born Russia (Latvia), 1903\u20131970",
+      "place_of_origin": "United States",
+      "description": "<p>Like many of the New York School painters of the 1940s, Mark Rothko was largely influenced by Surrealism, creating allegorical abstractions depicting biomorphic and mythological forms. By 1947 he abandoned representational imagery entirely and began working with color, light, and space. <em>Number 19</em> follows the characteristic format of his multiform paintings, in which loosely defined organic shapes hover over a thinly brushed background. Whereas color once assumed a supporting role in his compositions, by this period, color had become a defining force, thus marking the transition from Rothko\u2019s early work to his mature, color-field paintings.</p>\n",
+      "dimensions": "172.8 \u00d7 101.8 cm (68 \u00d7 40 1/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 101.8,
+          "width_in": 40.125,
+          "height_cm": 172.8,
+          "height_in": 68,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Oil on canvas",
+      "inscriptions": "Not inscribed on recto; inscribed: verso: \"Mark Rothko / 1949\" (lower left in orange-red paint); \"Top\" (on upper strainer member in orange-red paint)",
+      "credit_line": "Anonymous gift",
+      "catalogue_display": "<p>Anfam</p>",
+      "publication_history": "Robert Goldwater, \u201cReflections on the Rothko Exhibition,\u201d \u201cArts\u201d 35, 6 (March 1961), p. 44 (ill.), as \u201cNo. 19, 1948.\u201d\n\nPeter Selz, \u201cMark Rothko,\u201d \u201cL\u2019Oeil\u201d 76 (April 1961), p. 39 (ill.), as \u201cNumber 19, 1948.\u201d\n\nT. Elder Dickson, \u201c\u2018Pure Art\u2019: Past Present and Future,\u201d \u201cThe Studio\u201d 162, 820 (August 1961), p. 45 (ill.), as \u201cNo. 19, 1948.\u201d\n\n\u201cPaintings in the Art Institute of Chicago\u201d (Art Institute of Chicago, 1961), p. 405.\n\nJohn Ashbery, \u201cParis Notes,\u201d \u201cArt International\u201d 7, 2 (February 25, 1963), p. 73 (inverted ill.), as \u201cNumber 19, 1948.\u201d\n\nRobert T. Buck, Jr. et al., \u201cSam Francis: Paintings 1947\u20131972,\u201d exh. cat. (Albright-Knox Art Gallery, 1972), p. 16 (ill.), as \u201cNo. 19, 1948.\u201d\n\nElizabeth Till, \u201cMark Rothko at the Guggenheim,\u201d \u201cNorthwest: The Sunday Oregonian Magazine\u201d (December 17, 1978), p. 11 (inverted ill.). \n\nDiane Waldman et al., \u201cMark Rothko, 1903\u20131970: A Retrospective,\u201d exh. cat. (Solomon R. Guggenheim Museum/Harry N. Abrams, 1978), pp. 56, 273, cat. 88 (color ill.). \n\nHugh Adams, \u201cModern Painting\u201d (Phaidon, 1979), p. 57 (color ill.), as \u201cPainting, 1953\u20134.\u201d\n\nNobuyuki Hiromoto, \u201cMark Rothko,\u201d Contemporary Great Masters 4 (Kodansha, 1993), pl. 13 (color ill.).\n\nJames N. Wood and Teri J. Edelstein, \u201cThe Art Institute of Chicago: Twentieth-Century Painting and Sculpture\u201d (Hudson Hills Press, 1996), p. 97 (color ill.).\n\nDavid Anfam, \"Mark Rothko, The Works on Canvas: A Catalogue Raisonn\u00e9\" (National Gallery of Art/Yale University Press, 1998), pp. 61, 69, fig. 65 (photo), cat. 403 (color ill.).\n\nGlenn Phillips and Thomas Crow, eds., \u201cSeeing Rothko\u201d (Getty Research Institute, 2005), p. 33, pl. 16 (color ill.).",
+      "exhibition_history": "New York, Whitney Museum of American Art, \u201cAnnual Exhibition of Contemporary American Painting,\u201d December 16, 1949\u2013February 5, 1950, cat. 117.\n\nUrbana, College of Fine and Applied Arts, University of Illinois, \u201cExhibition of Contemporary American Painting,\u201d March 4\u2013April 15, 1951, p. 214, cat. 114, pl. 35 (ill.).\n\nNew York, Museum of Modern Art, \u201cMark Rothko,\u201d January 18\u2013March 12, 1961, cat. by Peter Selz, pp. 19 (ill.), 43, as \u201cNo. 19, 1948.\u201d\n\nBirmingham Museum of Art, \u201cTenth Anniversary Exhibition,\u201d April 30\u2013May 31, 1961, no cat.\n\nNagaoka, Japan, Niigata Prefectural Museum of Modern Art, \u201cMasterworks of Modern Art from the Art Institute of Chicago,\u201d April 20\u2013May 29, 1994; traveled to Nagoya, Aichi Prefectural Museum of Art, June 10\u2013July 24, 1994, and Yokohama Museum of Art, August 6\u2013September 25, 1994, cat. 65 (color ill.)\n\nWashington, D. C., National Gallery of Art, \u201cMark Rothko,\u201d May 3\u2013August 16, 1998, cat. by Jeffrey Weiss et al.; traveled to New York, Whitney Museum of American Art, September 10\u2013November 29, 1998, and Mus\u00e9e d\u2019Art Moderne de la Ville de Paris, January 8\u2013April 18, 1999, p. 342, cat. 39 (color ill.); French cat., cat. 21 (color ill.).",
+      "provenance_text": "Betty Parsons Gallery, New York, by 1950; sold to private collectors, Chicago, 1950; given anonymously to the Art Institute, 1957.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 246,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "\u00a9 1998 Kate Rothko Prizel & Christopher Rothko / Artists Rights Society (ARS), New York",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 0,
+      "color": {
+        "h": 341,
+        "l": 30,
+        "s": 4,
+        "percentage": 5.074518320462449e-05,
+        "population": 75
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Painting",
+      "artwork_type_id": 1,
+      "department_title": "Contemporary Art",
+      "department_id": "PC-8",
+      "artist_id": 36467,
+      "artist_title": "Mark Rothko",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36467
+      ],
+      "artist_titles": [
+        "Mark Rothko"
+      ],
+      "category_ids": [
+        "PC-8"
+      ],
+      "category_titles": [
+        "Contemporary Art"
+      ],
+      "term_titles": [
+        "painting",
+        "rectangles",
+        "modern and contemporary art",
+        "gray (color)",
+        "orange (color)",
+        "yellow (color)",
+        "colors"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-9",
+      "classification_title": "painting",
+      "alt_classification_ids": [
+        "TM-155"
+      ],
+      "classification_ids": [
+        "TM-9",
+        "TM-155"
+      ],
+      "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+      ],
+      "subject_id": "TM-12656",
+      "alt_subject_ids": [
+        "TM-11840",
+        "TM-11905",
+        "TM-11842",
+        "TM-12479"
+      ],
+      "subject_ids": [
+        "TM-12656",
+        "TM-11840",
+        "TM-11905",
+        "TM-11842",
+        "TM-12479"
+      ],
+      "subject_titles": [
+        "rectangles",
+        "gray (color)",
+        "orange (color)",
+        "yellow (color)",
+        "colors"
+      ],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "0a0e16c5-8510-bb2d-b2ca-424feae48d5c",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1957.308"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Number 19"
+          ],
+          "weight": 7240,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:30-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 9505,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/9505",
+      "is_boosted": false,
+      "title": "Two Studies of a Roma Woman and a Roma Boy in a Large Hat",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAJR+ZZaBaZ+JcJ+Kc6CKcKCLcqOMcqONcqKMc6ONc6SNcqWOdaeSeKmTeauUe66Yf7Obf6+agLCagbKcgbOcgbOdgbKcgrOdgrafhLulirymi8GrjsavkgAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYYLZNE6c5BxVcEqYwhDBUUAIYSLQ0hfWEADs=",
+        "width": 5824,
+        "height": 5093,
+        "alt_text": "A work made of pen and black iron gall ink on tan laid paper."
+      },
+      "main_reference_number": "1959.2",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1600,
+      "date_end": 1610,
+      "date_display": "c. 1605",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Jacques de Gheyn II\nDutch, 1565-1629",
+      "place_of_origin": "Netherlands",
+      "description": "<p>Jacques De Gheyn II employed a stylized graphic language of hatching and cross-hatching to capture the individual features and garments of the figures represented here, which include a woman shown from two vantage points and a young boy. The artist used iron gall ink made from the protective growth an oak tree produces after a wasp lays its eggs inside the tree branch. The ink is deep brown and almost black in some areas. Because iron gall ink contains a high concentration of tannic acid, however, it dissolves paper over time. Above the right foot of the Roma woman the damaged paper was repaired.</p>\n<p>On several occasions De Gheyn represented figures from the Roma or Romani community, itinerant members of Dutch society whose origins can be traced to northern India. Often finding shelter at the outskirts of cities, the Roma frequently took up informal trades like peddling and fortune telling.</p>\n",
+      "dimensions": "23 \u00d7 26 cm (9 1/16 \u00d7 10 1/4 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 26,
+          "width_in": 10.2363,
+          "height_cm": 23,
+          "height_in": 9.0552,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Pen and black iron gall ink on tan laid paper",
+      "inscriptions": "Inscribed verso, upper left, in graphite: \"6\" (on its side); center, in graphite: \"Middleton\"; lower left, in pen and brown ink: \"R/PB\" (in a triangle (twice)); small circle with two diagonal lines extending below; lower center, in graphite: \"Jacob de Gheyn / J d G\"; lower center, in pen and brown ink: \"Van der Veen\"",
+      "credit_line": "Gift of Tiffany and Margaret Blake",
+      "catalogue_display": null,
+      "publication_history": "Harold Joachim, \"Notes on Some Recently Acquired Drawings,\" The Art Institute of Chicago Quarterly LIII:2 (Apr. 1959), p. 22 (ill. on cover of publication).\n\nAlfred Frankfurter, \"Il Bon Disegno from Chicago,\" Art News, 62 (Nov. 1963), p.30 (ill), p. 57. \n\nHarold Joachim, Art Institute of Chicago, A Quarter Century of Collecting: Drawings Given to the Art Institute of Chicago, 1944\u20131970, by Margaret Day Blake, Apr. 28\u2013June 7, 1970, n.p., cat. 6 (ill.). \n\nRichard Judson, The Drawings of Jacob de Gheyn (New York, 1973), vol II, p. 27, no. 105 (ill.).\n\nI. Q. van Regteren Altena, Jacques de Gheyn, Three Generations (The Hague: Martinus Nijhoff, 1983), vol. II, p. 88, no. 535, p. 154, pl. 298.\n\nNathan Goldstein, The Art of Responsive Drawing, 5th ed. (Upper Saddle River, 1999), pp. 143\u2013144 and 146, fig. 6.1. \n\nShelley Perlove and George S. Keyes (editors), Seventeenth-Century European Drawings in Midwestern Collections (South Bend, Ind: University of Notre Dame Press, 2014), pp. 114, fig. 2.\n\u2028William W. Robinson with contributions by Susan Anderson, Drawings from the Age of Bruegel, Rubens, and Rembrandt: Highlights from the Collection of the Harvard Art Museums (Cambridge: Harvard Art Museums, 2016), under cat. 39, figure 1, p. 142.",
+      "exhibition_history": "New York, Charles Slatkin Galleries, Drawings by Old and Modern Masters, 1959, pl. VI.\n\nNew York, Wildenstein and Company, Master Drawings from The Art Institute of Chicago, Oct. 17\u2013Nov. 30, 1963, n.p., cat. 27, pl. XI.\n\nPoughkeepsie, N.Y., Vassar College Art Gallery, Dutch Mannerism, Apr. 15\u2013June 7, 1970, p. 37, pl. 33, cat. 40.\n\nWashington D.C., The National Gallery of Art, Seventeenth Century Dutch Drawings from American Collections, Jan. 30\u2013Mar. 13, 1977; also the Denver Art Museum, Apr. 1\u2013May 15, 1977; and Fort Worth, Tex., the Kimbell Art Museum, June 1\u2013July 15, 1977, pp. 8\u20139, cat. 5 (ill.).\n\nRotterdam, Museum Boymans-van Beuningen, Jacques de Gheyn II Drawings, 1986, p. 67, cat. 62 (ill.); also Washington, D.C., The National Gallery of Art.  \n\nRome, Galleria Nazionale d'Arte Antica, Palazzo Barberini, Claude Mellan: gli anni romani: un incisore tra Vouet e Bernini, Oct. 24, 1989\u2013Jan. 8, 1990, cat. 32. [GRI L3] \n\nMilwaukee Art Museum, Old Master Drawings from Area Collections, Apr. 18\u2013June 29, 1997, pp. 13 and 26, pl. 12, cat. 24.\n\nArt Institute of Chicago, The Broad Spectrum: Color on Paper, Past and Present, Sept. 12\u2013Oct. 31, 1999, no cat.\n\nThe Art Institute of Chicago, \"Rubens, Rembrandt, and Drawing in the Golden Age\", September 28, 2019 - January 5, 2020, pp. 145-46, 148 (ill.), 175, 299, cat. 46, cat. by Victoria Sancho Lobis, et. al.",
+      "provenance_text": "Anton Schmid (born 1904), Vienna [Altena 1973].  Ch. Wertheimer, Paris [Altena 1973]. Sold by Charles Slatkin Galleries, New York, to the Art Institute of Chicago, 1959.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 3,
+      "fiscal_year": 1959,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 23.5686,
+      "color": {
+        "h": 340,
+        "l": 32,
+        "s": 9,
+        "percentage": 0.007082027584497441,
+        "population": 44
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan to Newberry Library in Chicago for <i>Seeing Race Before Race</i></p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 40598,
+      "artist_title": "Jacob de Gheyn, II",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        40598
+      ],
+      "artist_titles": [
+        "Jacob de Gheyn, II"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "pen and ink drawings",
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "iron gall ink",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-212",
+      "classification_title": "pen and ink drawings",
+      "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_ids": [
+        "TM-212",
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_titles": [
+        "pen and ink drawings",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [
+        "TM-2398",
+        "TM-3238",
+        "TM-2400"
+      ],
+      "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3238",
+        "TM-2400"
+      ],
+      "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "coating (material)",
+        "iron gall ink"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "9484feef-7c7f-e70f-4d5e-4320ece4bfd1",
+      "alt_image_ids": [
+        "be2cd958-c5f3-3d0f-dccc-6eef9740e590",
+        "a5a68822-0e66-82fb-ba7f-8a72189da5b5"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1959.2"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Two Studies of a Roma Woman and a Roma Boy in a Large Hat"
+          ],
+          "weight": 2744,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:29-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 7122,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/7122",
+      "is_boosted": false,
+      "title": "Seated Boy",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAANXCo9bDpdfDpdnEptjFptjFp9nGqdrGqtvGqtzIq9vIrNzJrOHMseHNseXRtwAAACH5BAAAAAAALAAAAAADAAUAAAQLsDmWDiIDFBGWMhEAOw==",
+        "width": 1467,
+        "height": 2250,
+        "alt_text": "A work made of graphite on cream laid paper."
+      },
+      "main_reference_number": "1958.15",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1918,
+      "date_end": 1918,
+      "date_display": "1918",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Max Beckmann\nGerman, 1884-1950",
+      "place_of_origin": "Germany",
+      "description": null,
+      "dimensions": "50.4 \u00d7 32.9 cm (19 7/8 \u00d7 13 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 32.9,
+          "width_in": 12.9528,
+          "height_cm": 50.4,
+          "height_in": 19.8426,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Graphite on cream laid paper",
+      "inscriptions": null,
+      "credit_line": "Gift of the Print and Drawing Club",
+      "catalogue_display": null,
+      "publication_history": "Stephan von Weise, Max Beckmanns Zeichnerisches work 1903-1925 (Dussledorf, 1978), pp. 133 and 214, no. 403 (ill.).\n\nKaroline Hille, Spuren der Moderne: Die Mannheimer Kunsthalle von 1918 bis 1933 (Berlin, 1994), pp. 321 and 380.",
+      "exhibition_history": "Mannheim, Germany, St\u00e4dtische Kunsthalle Mannheim, \"Max Beckmann \u2013 das gesammelte Werk,\" 1928, cat. 126 (?).\n\nFrankfurt, Germany, Kunstkabinett Hanna Bekker vom Rath, \"Max Beckmann,\" July 9-August 12, 1955, cat. 16. \n\nPf\u00e4lzisch Landesgeurbeanstalt, Kaiserslautern, \"Max Beckmann,\" September 29-October 29, 1956, cat. 16.\n\nFrankfurt, Germany, Kunstkabinett Hanna Bekker vom Rath, \"Gem\u00e4lde, Aquarelle, Handzeichnungen, Graphik, Plastik des 20 Jahrs,\" 1956-1957, cat. 20. \n\nMunich, Haus der Kunst, \"Max Beckmann,\" February 25-April 23, 1984, cat. 154, cat. by Carla Schulz-Hoffmann and Judith C. Weiss, et. al.; traveled to Berlin, Nationalgalerie, May 18-July 29, 1984; the St. Louis Art Museum, September 7-November 4, 1984; the Los Angeles County Museum of Art, December 9, 1984-February 3, 1985.",
+      "provenance_text": "Sold by Zinglers Kabinett, Frankfurt, to the Kunsthalle Mannheim [Lugt 1781E], 1924 [former inventory number G1952; according to records of the Kunsthalle Mannheim]; sequestrated Aug. 28, 1937 by the Reichsministerium f\u00fcr Volksaufkl\u00e4rung und Propaganda, Berlin (EK 6173); sold by Hildebrand Gurlitt, 1941 [records of the Kunsthalle Mannheim and an email from Hedda Finke of May 28, 2020].  Frankfurter Kunstkabinett Hanna Bekker vom Rath (opened 1947), by 1955 [Frankfurt 1955].  Sold by Allan Frumkin, New York, to the Art Institute, 1958.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 3,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 16.8627,
+      "color": {
+        "h": 40,
+        "l": 54,
+        "s": 41,
+        "percentage": 0.0007339456274730527,
+        "population": 8
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan to Neue Galerie New York in New York City for <i>Max Beckmann: Formative Years, 1915-1925</i></p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Drawing and Watercolor",
+      "artwork_type_id": 14,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 33571,
+      "artist_title": "Max Beckmann",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        33571
+      ],
+      "artist_titles": [
+        "Max Beckmann"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "graphite",
+        "paper (fiber product)",
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-175",
+      "classification_title": "graphite",
+      "alt_classification_ids": [
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_ids": [
+        "TM-175",
+        "TM-5",
+        "TM-4"
+      ],
+      "classification_titles": [
+        "graphite",
+        "drawings (visual works)",
+        "prints and drawing"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [
+        "TM-2410"
+      ],
+      "material_ids": [
+        "TM-2982",
+        "TM-2410"
+      ],
+      "material_titles": [
+        "paper (fiber product)",
+        "graphite"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "f2a2c17c-8eee-a1b8-cfe4-71bb59f3798e",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1958.15"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Seated Boy"
+          ],
+          "weight": 560,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:29-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 11723,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/11723",
+      "is_boosted": true,
+      "title": "Woman at Her Toilette",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAE9MQV1XRl5YRmNdT2JgVGplV3RtW3JsX35wXW9rYHl3cX17eYJ4a4+Hd4GBfoaDf4iEfY6JgYmKhZuXjZWSkJaSkJydlpqZmZqamp+dmpqbnamelqCemqShk6Cgm6ujnK6nn7m0rbSzsgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwABDYnBYOgTFAvHAcA6JyIZyyQwAFZHGMykIPiEQpBEEADs=",
+        "width": 4946,
+        "height": 3703,
+        "alt_text": "Painted portrait dominated by loose, large brushstrokes of a woman, seen from the back, wearing a gauzy white off-the-shoulder dress and black choker, blond hair swept up, examining herself in a mirror at left. The background is a feathered swirl suggesting floral pattern in cool pale tones of gray, purple, pink, and blue."
+      },
+      "main_reference_number": "1924.127",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1870,
+      "date_end": 1880,
+      "date_display": "1875/80",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Berthe Morisot\nFrench, 1841-1895",
+      "place_of_origin": "France",
+      "description": "<p>Consistent with the Impressionist aesthetic that Berthe Morisot fervently espoused, <em>Woman at Her Toilette</em> attempts to capture the essence of modern life in summary, understated terms. The painting also moves discreetly into the realm of female eroticism explored by Edgar Degas, \u00c9douard Manet, and Pierre-Auguste Renoir but seldom broached at this time by women artists. Rendered with soft, feathery brushstrokes in nuanced shades of lavender, pink, blue, white, and gray, the composition resembles a visual tone poem, orchestrated with such perfumed and rarified motifs as brushed blonde hair, satins, powder puffs, and \ufb02ower petals. The artist even signed her name along the bottom of the mirror, as if to suggest that the image in her painting is as ephemeral as a silvery re\ufb02ection. Morisot exhibited in seven of the eight Impressionist group shows; this painting was included in the fifth exhibition, in 1880, where her work received great acclaim. She was a particularly close friend of and frequent model for Manet, and she married his younger brother Eug\u00e8ne the year before she completed this painting. In addition to domestic interiors such as this one, Morisot\u2019s pictorial realm included studies of women and children, gardens, fields, and seaside vacation homes.</p>\n",
+      "dimensions": "60.3 \u00d7 80.4 cm (23 3/4 \u00d7 31 5/8 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 80.4,
+          "width_in": 31.625,
+          "height_cm": 60.3,
+          "height_in": 23.75,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Oil on canvas",
+      "inscriptions": "Inscribed lower left: Berthe Morisot",
+      "credit_line": "Stickney Fund",
+      "catalogue_display": null,
+      "publication_history": "W. Dewhurst, \u201cImpressionist Painting: Its Genesis and Development,\u201d International Studio 19 (May, 1903), pp. 165, 168 (ill.).\n\nRoger Marx, \u201cLes Femmes Peintres et l\u2019impressionisme, Berthe Morisot,\u201d Gazette des Beaux-Arts, per. 3, vol. 38 (December 1907), pp. 497 (ill.), 498.\n\nThe Art Institute of Chicago Annual Report 1924 (Chicago, 1924), ill.\n\nR.M.F., \u201c A Painting by Berthe Morisot,\u201d The Art Institute of Chicago Bulletin 18 (1924), pp. 50, 51, (ill.)\n\nThe Art Institute of Chicago, A Guide to the Paintings in the Permanent Collection, (Chicago, 1925), p. 65 (ill.).\n\nMonique Angoulvent, Berthe Morisot (Paris, 1931), pp. 55, 121, no. 83.\n\nThe Art Institute of Chicago, Handbook (Chicago, 1932), pp. 62, ill. 164.\n\nD.C. Rich, \u201cFranz\u00f6sische Impressionisten im Art Institute zu Chicago,\u201d Pantheon 11 (March 1933), pp. 77 (ill.),78.\n\nLionello Venturi, Les Archives de l\u2019impressionisme vol. 2 (Paris, 1939), p. 257.\n\nHans Huth, \u201cImpressionism Comes to America,\u201d Gazette des Beaux-Arts, s\u00e9r. 6, vol. 29 (April, 1946), pp. 225-252, fig. 17.\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (Chicago, 1956), p. 34.  \n\nThe Art Institute of Chicago, Paintings in the Art Institute, A Catalogue of the Picture Collection (Chicago, 1961), pp. 340, ill. p. 288.\n\nM.-L. Bataille and Georges Wildenstein, Berthe Morisot: Catalogue des peintures, pastels, aquarelles (Paris, 1961), no. 84, pl. 37.\n\nJean Dominique Rey, Berthe Morisot (New York, 1982), pp. 29, 35 (ill.), 37, 51.\n\nRichard R. Brettell, French Impressionists (Chicago, 1987), pp. 24 (det. ill.), 25, 27 (ill.), 118.\n\nAnne Higonnet, Berthe Moristot\u2019s Images of Women (Cambridge, 1992), pp. 106, 155, pl. 7.\n\nAlain Clairet et al., Berthe Morisot 1841-1895: Catalogue raisonn\u00e9 de l\u2019oeuvre peint (Montolivet, 1997), no. 85 (ill.).\n\nWendy Slatkin, Women Artists in History: From Antiquity to the Present (Upper Saddle River, 1997), pp. 137-139 (ill.).\n\nRichard R. Brettell et al., Impression: Painting Quickly in France, 1860-1890, exh. cat.  (London, The National Gallery and Williamston, Mass., Sterling and Francine Clark Art Institute, 2001), p. 91 (ill.).\n\nRichard R. Brettell and Anne-Brigitte Fonsmark, Gauguin and Impressionism, exh. cat. (Copenhagen, Ordrugpgaard, 2005/Forth Worth, Kimbell Art Museum, 2005-6), p. 85, fig. 62.\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 19, pp. 58\u201359 (ill.).\n\nSylvie Patry, ed., Inventing Impressionism: Paul Durand-Ruel and the Modern Market (London: National Gallery Company, 2015), 134-35 (detail ill.), 145 fig. 95, 260 cat. 60.\n\nKang, Cindy, et. al., Berthe Morisot: Woman Impressionist, exh. cat. (Rizzoli Electa, 2018), 76, 78, 91, 93, 110, cat. 30.\n\nJason Farago, \"Images for a Hazy New Age: Mapping a Transformation in the Depiction of Women,\" New York Times, Nov. 23, 2018, c20 ill.\n\nSylvie Patry in Berthe Morisot, exh. cat. (Paris: Flammarion, 2019), 81, 86-87 cat. 37.\n\nNicole R. Myers, \"Morisot et la ffemme moderne,\" in Berth Morisot, exh. cat. (Paris: Flammarion, 2019), 180.\n\nMarianne Mathieu, ed., Berthe Morisot: Shaping Impressionism, exh. cat. (London: Dulwich Picture Gallery, 2023), 1 (detail), 20, 33, 56, 65, 102-03 cat. 7.",
+      "exhibition_history": "Possibly Paris, 2\u00e9me Exposition de Peinture (1), Apr. 1876. [see D. Rouart, Correspondence de Berthe Morisot (Paris, 1950), pp. 98, 257]\n\nParis, 5me Expostition de Peinture, 1880, cat. 115.\n\nParis, Durand-Ruel, Berthe Morisot, Exposition de son oeuvre, Mar. 1896, cat. 68.\n\nLondon, Durand-Ruel at the Grafton Galleries, A Selection From the Pictures by Boudin, C\u00e9zanne, Degas, Manet, Monet, Morisot, Pissarro, Renoir, Sisley, cat. 162 (ill.).\n\nPittsburgh, Penn., Carnegie Institute, Exhibition of Paintings \u00c9douard Manet, Pierre Renoir, Berthe Morisot, Oct.-Dec. 1924, cat. 29 (ill.).\n\nThe Arts Club of Chicago, Exhibitions of Paintings of Three Woman Painters, Nov. 1931, not listed in cat.\n\nThe Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1-Nov. 1, 1933, cat. 334 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress: Exhibition of Paintings and Sculpture, June 1-Nov. 1, 1934, cat. 257.\n\nThe Toledo Museum of Art, French Impressionists and Post-Impressionists, Nov. 1934, cat. 11.\n\nNew York, The Metropolitan Museum of Art, French Painting from David to Toulouse-Lautrec, Feb.-Mar. 1941, cat. 95 (ill.).\n\nThe Arts Club of Chicago, Berthe Morisot, Mar.-Apr. 1943, cat. 1.\n\nNew York, Wildenstien and Co., Berthe Morisot, Nov.-Dec. 10, 1960, cat. 12 (ill.).\n\nNew York, Wildenstein and Co., Paris\u2013New York: A Continuing Romance, Nov. 3-Dec. 19, 1977, cat. 76 (ill.).\n\nSouthampton, New York, The Parrish Art Museum, William Merritt Chase in the Company of Friends, May 12- July 29, 1979, cat. 79 (ill.). \n\nSt. Petersburg, Florida, Museum of Fine Arts, Paris in the Belle Epoque: People and Places, Mar. 1-Apr. 6, 1980, cat. 56 (ill.).\n\nAlbi, Mus\u00e9e Toulouse- Lautrec, Tr\u00e9sors impressionnistes du Mus\u00e9e de Chicago, June 27-Aug. 31, 1980, cat. 23 (ill.).\n\nTokyo, The Seibu Museum of Art, The Impressionist Tradition: Masterpieces from the Art Institute of Chicago, Oct. 18-Dec. 17, 1985, cat. 21 (ill.); Fukuoka Art Museum, Jan. 5-Feb. 2, 1986 and Kyoto Municipal Museum of Art, Mar. 4-Apr. 13, 1986.\n\nWashington, D.C., National Gallery of Art, The New Painting: Impressionism 1874-1886, Jan. 17- Apr. 6, 1986, cat. 96 (ill.); Fine Art Museum of San Francisco, M.H. de Young Memorial Museum, Apr. 19- July 6, 1986.\n\nWashington, D.C., National Gallery of Art, Berthe Morisot: Impressionist, Sep. 6-Nov. 29, 1987, cat. 35; Fort Worth, Kimbell Art Museum, Dec. 12, 1987-Feb. 21, 1988; Mount Holyoke College Art Museum, Mar. 14-May 9, 1988, shown in Washington and Forth Worth only.\n\nLeningrad [St. Petersburg], Hermitage Museum, Ot Delakrua do Matissa: shedevry frantsuzsko\u012d zhivopici XIX-nachala XX veka, iz Muieia Metropoliten v Niu-\u012corke i Khudozhestvennogo Instituta v Chikago [From Delacroix to Matisse: Great Paintings From the XIX century to the Beginning of the XXth century From Metropolitan Museum of Art in New York and the Art Institute of Chicago], Mar. 15-May 19, 1988, cat. 18; Moscow, Pushkin Museum, June 10-July 30, 1988.\n\nLille, Palais de Beaux-Arts de Lille, Berthe Morisot 1841-1895, Mar. 10-June 9, 2002, cat .49 (ill.); Martigny, Fondation Pierre Gianadda, June 20-Nov. 19, 2002.\n\nCopenhagen, Ny Carlsberg Glyptotek, Woman in Impressionism: From Mythical Feminine to Modern Woman, Oct. 6, 2006-Jan. 21, 2007, cat. 71 (ill.).\n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013Nov. 2, 2008, cat. 19 (ill.).\n\nParis, Mus\u00e9e Luxembourg, Inventing Impressionism: Paul Durand-Ruel and the Modern Market, Oct. 9, 2014-Feb. 8, 2015, cat. 60; London, National Gallery, Mar. 4-May 31, 2015; Philadelphia Museum of Art, Inventing Impressionism, June 18-Sep. 13, 2015.\n\nWilliamstown, MA, Clark Art Institute, Women Artists in Paris, June 8 - Sep. 3, 2018\n\nPhiladelphia, Barnes Foundation, Berthe Morisot, Woman Impressionist, Oct. 20, 2018 - Jan. 14, 2019, cat. 30; Dallas Museum of Art, Feb. 24 - May 26, 2019; Paris, Mus\u00e9e d'Orsay, June 17 -  Sep. 22, 2019, cat. 30.\n\nParis, Mus\u00e9e d'Orsay, Berthe Morisot, June 18-Sep. 22, 2019, cat. 37.\n\nLondon, Dulwich Picture Gallery, Berthe Morisot: Shaping Impressionism, Apr. 5 - Sep. 10, 2023, cat. 7; Paris, Mus\u00e9e Marmottan Monet, Oct. 18, 2023 - Mar. 10, 2024.",
+      "provenance_text": "William Merritt Chase, New York; his sale, New York, American Art Galleries, 1896, lot 1093 [according to Clairet 1997].  Mary Cassatt, 1896 [see Paris 1896].  Durand-Ruel, Paris, 1905 [see London 1905].  Wildenstein & Co., New York [according to Chicago 1933]. Paul Rosenberg, New York by 1924; sold to the Art Institute, 1924.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 14,
+      "fiscal_year": 1924,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 16.6011,
+      "color": {
+        "h": 207,
+        "l": 57,
+        "s": 51,
+        "percentage": 0.0011279616041869934,
+        "population": 6
+      },
+      "latitude": 41.8795584763067,
+      "longitude": -87.6232921901436,
+      "latlon": "41.879558476307,41.879558476307",
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan</p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Painting",
+      "artwork_type_id": 1,
+      "department_title": "Painting and Sculpture of Europe",
+      "department_id": "PC-10",
+      "artist_id": 35834,
+      "artist_title": "Berthe Morisot",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        35834
+      ],
+      "artist_titles": [
+        "Berthe Morisot"
+      ],
+      "category_ids": [
+        "PC-10",
+        "PC-831",
+        "PC-825"
+      ],
+      "category_titles": [
+        "Painting and Sculpture of Europe",
+        "Essentials",
+        "Women artists"
+      ],
+      "term_titles": [
+        "painting",
+        "oil painting",
+        "women",
+        "oil paint (paint)",
+        "Impressionism",
+        "painting (image making)",
+        "canvas",
+        "european painting",
+        "leisure",
+        "toilettes",
+        "mirrors",
+        "Century of Progress",
+        "world's fairs",
+        "Chicago World's Fairs"
+      ],
+      "style_id": "TM-7543",
+      "style_title": "Impressionism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-7543"
+      ],
+      "style_titles": [
+        "Impressionism"
+      ],
+      "classification_id": "TM-9",
+      "classification_title": "painting",
+      "alt_classification_ids": [
+        "TM-54"
+      ],
+      "classification_ids": [
+        "TM-9",
+        "TM-54"
+      ],
+      "classification_titles": [
+        "painting",
+        "european painting"
+      ],
+      "subject_id": "TM-8735",
+      "alt_subject_ids": [
+        "TM-10094",
+        "TM-12297",
+        "TM-12258",
+        "TM-12169",
+        "TM-11299",
+        "TM-12176"
+      ],
+      "subject_ids": [
+        "TM-8735",
+        "TM-10094",
+        "TM-12297",
+        "TM-12258",
+        "TM-12169",
+        "TM-11299",
+        "TM-12176"
+      ],
+      "subject_titles": [
+        "women",
+        "leisure",
+        "toilettes",
+        "mirrors",
+        "Century of Progress",
+        "world's fairs",
+        "Chicago World's Fairs"
+      ],
+      "material_id": "TM-2451",
+      "alt_material_ids": [
+        "TM-3124"
+      ],
+      "material_ids": [
+        "TM-2451",
+        "TM-3124"
+      ],
+      "material_titles": [
+        "oil paint (paint)",
+        "canvas"
+      ],
+      "technique_id": "TM-4273",
+      "alt_technique_ids": [
+        "TM-3891"
+      ],
+      "technique_ids": [
+        "TM-4273",
+        "TM-3891"
+      ],
+      "technique_titles": [
+        "oil painting",
+        "painting (image making)"
+      ],
+      "theme_titles": [
+        "Essentials",
+        "Women artists"
+      ],
+      "image_id": "78c80988-6524-cec7-c661-a4c0a706d06f",
+      "alt_image_ids": [],
+      "document_ids": [
+        "2086435f-6c83-5e54-2fea-3b9f011f9c3f"
+      ],
+      "sound_ids": [
+        "2086435f-6c83-5e54-2fea-3b9f011f9c3f"
+      ],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_boosted": "Woman at Her Toilette",
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1924.127"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Woman at Her Toilette"
+          ],
+          "weight": 66851,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:28-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 14572,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/14572",
+      "is_boosted": true,
+      "title": "The Millinery Shop",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAEMtIk40KE83KlhHLVxELlNPN1hLMVJOP19UN1dYM1lUOVpUP2dAIWlKKHZKKXZLKWRNPGpbMGpaNGtaOkxUTF9dRlJaS15YSV5kUnZpRH12W4ZkM49uRI52VQAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4AUtFWZxHZIdExFEybAJQGE00sNQmqOEADs=",
+        "width": 5003,
+        "height": 4543,
+        "alt_text": "Impressionist painting of woman wearing green dress trying on hats."
+      },
+      "main_reference_number": "1933.428",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1874,
+      "date_end": 1886,
+      "date_display": "c. 1879-86",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Edgar Degas\nFrench, 1834-1917",
+      "place_of_origin": "France",
+      "description": "<p>Of at least fifteen pastels, drawings, and paintings that Edgar Degas created on this subject during the 1880s, <em>The Millinery Shop</em> is the largest and perhaps the most ambitious. As a result of its unusual cropping and tilted perspective, it seems to capture an unedited glimpse of the interior of a small nineteenth-century millinery shop. The identity of the young woman in the painting remains unclear: she may be a shop girl or a customer. In an early version of the composition, the woman is clearly intended to be a customer; she wears a fashionable dress, though her hat\u2014a prerequisite token of bourgeois culture\u2014is absent. In the final painting, however, the woman appears with her mouth pursed, as if around a pin, and her hands gloved, possibly to protect the delicate fabric of the hat she holds. Degas seems to have deliberately left her role as a creator or consumer ambiguous. She is totally absorbed in her activity and, like most of the women in Degas\u2019s paintings, seems unaware of being watched. The bonnets that are displayed on the table next to her like a still life present an analogy to the artist\u2019s creative process: where they are unfinished, so too is the painting.</p>\n",
+      "dimensions": "100 \u00d7 110.7 cm (39 3/8 \u00d7 43 9/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 110.7,
+          "width_in": 43.5625,
+          "height_cm": 100,
+          "height_in": 39.375,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Oil on canvas",
+      "inscriptions": null,
+      "credit_line": "Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+      "catalogue_display": null,
+      "publication_history": "Daniel Catton Rich, \u201cBequest of Mrs. L. L. Coburn,\u201d The Art Institute of Chicago Bulletin 26, 5 (1932), p. 69 (ill.).\n\nThe Fine Arts 19 (June 1932), p. 23 (ill.).\n\nEleanor Jewett, \u201cNoted Private Art Collection on Exhibition: Antiquarians Sponsor Institute Show,\u201d Chicago Tribune (April 6, 1932).\n\nSmith College Museum of Art Bulletin 15 (June 1934), p. 15 (ill.).\n\nAgnes Mongan, \u201cDegas As Seen in American Collections,\u201d Burlington Magazine 72 (1938), pp. 297 (ill.), 302.\n\nGeorge Slocombe, \u201cArtist as Misanthrope,\u201d Coronet 3, 6 (April 1938), p. 22 (ill.).\n\nR. Shoolman and C. E. Slatkin, The Enjoyment of Art in America (Philadelphia, 1942), pl. 543.\n\nAn Illustrated Guide to the Collections of The Art Institute of Chicago (Chicago, 1945), pp. 36 (ill.), 37.\n\nHans Huth, \u201cImpressionism Comes to America,\u201d Gazette des Beaux-Arts ser. 6, vol. 29 (1946), pp. 234, fig. 8.\n\nPaul Andre Lemoisne, Degas et son oeuvre vol. 3 (Paris, 1946), cat. 832 (ill.).\n\nF. Fels, L\u2019Art Vivant de 1900 a Nos Jours (Geneva, 1950), p. 98 (ill.).\n\nDaniel Catton Rich, \u201cMidwest Art Capital,\u201d Town and Country (March 1951), p. 75 (ill.).\n\nThe Art Institute of Chicago, A Brief Guide to the Collections (Chicago, 1956), pp. 34 (ill.), 35.\n\nPierre Cabanne, Degas (Paris, 1958), p. 111 (ill.).\n\nThe Art Institute of Chicago, Paintings in the Art Institute of Chicago: Catalogue of the Picture Collection (Chicago, 1961), pp. 121, 336 (ill.).\n\nFrederick A. Sweet, \u201cGreat Chicago Collectors,\u201d Apollo 84 (September 1966), p. 203, fig. 33.\n\nWilliam Gaunt, Impressionism: A Visual History (New York, 1970), pp. 244, 245, pl. 95.\n\nJohn Maxon, The Art Institute of Chicago (New York, 1970), pp. 89 (ill.), 90, 280.\n\nFranco Russoli and Fiorella Minervino, L\u2019opera completa di Degas (Milan, 1970), no. 635 (ill.).\n\nCaron LeBrun Danikian, \u201cDegas Story Told in MFA Exhibition,\u201d The Christian Science Monitor (July 2, 1974), p. 4C, ill.\n\nHilton Kramer, \u201cEdgar Degas, the Reluctant Modernist, at a New Exhibition in Lonodn,\u201d The New York Times (July 7, 1974), p. 19 (ill.).\n\nThe Art Institute of Chicago, 100 Masterpieces (Chicago, 1978), no. 63 (ill.).\n\nDiane Kelder, The Great Book of French Impressionism (New York, 1980), p. 312 (ill.).\n\nManet, 1832-1883 exh. cat. (Paris, Galeries nationales du Grand Palais/New York, Metropolitan Museum of Art, 1983), under cat. 213, fig. a.\n\nRichard Brettell, French Impressionists (Chicago, 1987), p. 63 (ill.).\n\nEunice Lipton, Looking Into Degas Uneasy Images of Women and Modern Life (Berkeley, 1987), pp. 153-4 (ill.).\n\nHorst Keller, Edgar Degas (Munich, 1988), pp. 81, 90 (ill.).\n\nAnne Roquebert, Degas (Paris, 1988), p. 176, no 42 (ill.).\n\nJames N. Wood and Katharine C. Lee, Master Paintings in The Art Institute of Chicago (Chicago, 1988), p. 60 (ill.).\n\nEdward Lucie-Smith, Impressionist Women (London, 1989), pp. 98, 100, 101, pl. 88.\n\nHoward Hodgkin, \u201cA Great Artist\u2019s Advice: Do Not Miss This Degas,\u201d The Independent (May 22, 1996), p. 10.\n\nChristopher Riopelle, \"Edgar Degas: Illustrious and Unknown,\" in Art in the Making: Degas, exh. cat. (London, National Gallery, 2004), pp. 15, 16 (ill.).\n\nThe Age of Impressionism at the Art Institute of Chicago (New Haven and London, 2008), cat. 41, pp. 92-93 (ill.).\n\nSimon Kelly and Esther Bell, Degas, Impressionism, and the Paris Millinery Trade, exh. cat. (Fine Arts Museums of San Francisco/ Legion of Honor/ Delmonico Books/ Prestel, 2017), book cover, pp. 104-105, cat. 1 (ill).",
+      "exhibition_history": "The Art Institute of Chicago, Mrs. L.L. Coburn Collection: Modern Paintings and Water Colors, April 6, 1932-October 9, 1932, cat. 9 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1-November 1, 1933, cat. 286, pl. 53.\n\nNorthampton, Mass., Smith College Museum of Art, Edgar Degas, November 28-Deceber 18, 1933, cat. 8 (ill.).\n\nThe Art Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, June 1-November 1, 1934, cat. 202.\n\nToledo, Ohio, Museum of Art, French Impressionists and Post-Impressionists, November 1934, cat. 1.\n\nSpringfield, Mass., Museum of Art, French Painting, C\u00e9zanne to the Present, December 1935-January 1936, cat. 1.\n\nPhiladelphia Museum of Art, Degas, November-December 1936, cat. 40 (ill.).\n\nWorcester, Mass., Worcester Art Museum, The Art of The Third Republic, February-March 1941, cat. 4 (ill. on cover).\n\nCleveland Museum of Art, The Works of Edgar Degas, February 5-March 9, 1947, cat. 38 (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibition: Masterpieces of Painting, November 4, 1950-February 11, 1951, cat. 74 (ill.).\n\nBoston Museum of Fine Arts, Edgar Degas: The Reluctant Impressionist, June 21-September 1, 1974, cat. 20 (ill.).\n\nRichmond, Va., The Virginia Museum, Degas, May 23-July 9, 1978, cat. 14 (ill.).\n\nAlbi, Mus\u00e9e Toulouse-Lautrec, Tr\u00e9sors impressionistes du Mus\u00e9e de Chicago, June 27-August 31, 1980, cat. 8 (ill.).\n\nThe Art Institute of Chicago, Degas in The Art Institute of Chicago, July 19-September 23, 1984, cat. 63 (ill.).\n\nParis, Galeries nationales du Grand Palais, Degas, February 9-May 16, 1988, cat. 235 (ill.); Ottawa, National Gallery of Canada, June 16-August 28, 1988; New York, The Metropolitan Museum of Art, September 27, 1988-January 8, 1989.\n\nLondon, National Gallery, Degas: Beyond Impressionism, May 22-August 26, 1995, cat. 4 (ill.)., traveled to The Art Institute of Chicago, September 28, 1996-January 5, 1997.\n\nKansas City, The Nelson-Atkins Museum of Art, Invited Work: Edgar Degas, The Millinery Shop, July 22- November 26,  1995, no cat.\n\nLondon, The National Gallery and The Art Institute of Chicago, Degas: Beyond Impressionism, 1996-1997, cat. 4. \n\nNew York, Metropolitan Museum of Art, The Private Collection of Edgar Degas, October 1, 1997-January 11, 1998, no cat. no (fig. 96). \n\nAtlanta, High Museum of Art, Degas and America: The Early Collectors, cat. 54 (ill.), traveled to The Minneapolis Institute of Arts, June 16-September 9, 2001, shown in Minneapolis only.\n\nWashington, DC, The Phillips Collection, Impressionist and Post-Impressionist Still-Life Painting, September 22, 2001-January 13, 2002, no cat. no (pl. 60), traveled to Boston, Museum of Fine Arts, February 17-June 9, 2002.\n\nFort Worth, Tex., Kimbell Museum of Art, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29\u2013November 2, 2008, cat. 41 (ill.).\n\nSt. Louis, Missouri, Saint Louis Art Museum, Degas, Impressionism, and the Paris Millinery Trade, February 12 - May 7, 2017, cat. 1; San Francisco, Legion of Honor, June 24 - September 25, 2017.",
+      "provenance_text": "Sold by the artist to Paul Durand-Ruel, Paris on February 22, 1913 for 50,000 francs [see Durand-Ruel stock no. 10253; this and the following information according to Paris 1988]; sent to Durand-Ruel Gallery in New York, 1917; sold to Mrs. Lewis Larned (Annie Swan) Coburn (died 1932), Chicago on January 19, 1932 for $36,000 or $35,000 [see Durand-Ruel stock no. 4114; the date 1932 given in the Durand-Ruel stockbook contradicts a loan receipt, dated January 23, 1930, for a \u201cMillinery Shop, 1882\u201d from Mrs. L.L. Coburn to the Art Institute of Chicago, copy in curatorial file]; bequeathed to the Art Institute of Chicago, 1933.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 14,
+      "fiscal_year": 1940,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": true,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 38.9301,
+      "color": {
+        "h": 38,
+        "l": 46,
+        "s": 54,
+        "percentage": 0.003876600066677521,
+        "population": 25
+      },
+      "latitude": 41.8796923332086,
+      "longitude": -87.6233546063303,
+      "latlon": "41.879692333209,41.879692333209",
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan to Metropolitan Museum of Art in New York City for <i>Manet Degas</i></p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Painting",
+      "artwork_type_id": 1,
+      "department_title": "Painting and Sculpture of Europe",
+      "department_id": "PC-10",
+      "artist_id": 40543,
+      "artist_title": "Hilaire Germain Edgar Degas",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        40543
+      ],
+      "artist_titles": [
+        "Hilaire Germain Edgar Degas"
+      ],
+      "category_ids": [
+        "PC-10",
+        "PC-831"
+      ],
+      "category_titles": [
+        "Painting and Sculpture of Europe",
+        "Essentials"
+      ],
+      "term_titles": [
+        "painting",
+        "oil painting",
+        "women",
+        "oil paint (paint)",
+        "Impressionism",
+        "painting (image making)",
+        "european painting",
+        "everyday life (genre)",
+        "work",
+        "urban life",
+        "Century of Progress",
+        "world's fairs",
+        "Chicago World's Fairs",
+        "hats"
+      ],
+      "style_id": "TM-7543",
+      "style_title": "Impressionism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-7543"
+      ],
+      "style_titles": [
+        "Impressionism"
+      ],
+      "classification_id": "TM-9",
+      "classification_title": "painting",
+      "alt_classification_ids": [
+        "TM-54"
+      ],
+      "classification_ids": [
+        "TM-9",
+        "TM-54"
+      ],
+      "classification_titles": [
+        "painting",
+        "european painting"
+      ],
+      "subject_id": "TM-8735",
+      "alt_subject_ids": [
+        "TM-10096",
+        "TM-10093",
+        "TM-10126",
+        "TM-12169",
+        "TM-11299",
+        "TM-12176",
+        "TM-12109"
+      ],
+      "subject_ids": [
+        "TM-8735",
+        "TM-10096",
+        "TM-10093",
+        "TM-10126",
+        "TM-12169",
+        "TM-11299",
+        "TM-12176",
+        "TM-12109"
+      ],
+      "subject_titles": [
+        "women",
+        "everyday life (genre)",
+        "work",
+        "urban life",
+        "Century of Progress",
+        "world's fairs",
+        "Chicago World's Fairs",
+        "hats"
+      ],
+      "material_id": "TM-2451",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2451"
+      ],
+      "material_titles": [
+        "oil paint (paint)"
+      ],
+      "technique_id": "TM-4273",
+      "alt_technique_ids": [
+        "TM-3891"
+      ],
+      "technique_ids": [
+        "TM-4273",
+        "TM-3891"
+      ],
+      "technique_titles": [
+        "oil painting",
+        "painting (image making)"
+      ],
+      "theme_titles": [
+        "Essentials"
+      ],
+      "image_id": "6f513908-03cc-b974-633b-adfce56b7936",
+      "alt_image_ids": [],
+      "document_ids": [
+        "2149bc62-56f8-b16a-b3d2-b15e3bbeef59"
+      ],
+      "sound_ids": [
+        "2149bc62-56f8-b16a-b3d2-b15e3bbeef59"
+      ],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_boosted": "The Millinery Shop",
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1933.428"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "The Millinery Shop"
+          ],
+          "weight": 26939,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:27-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 13096,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/13096",
+      "is_boosted": false,
+      "title": "The Baptism of the Eunuch",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAK2biK6biLejj7yqlsKvmsiznsi1n8m2ocu2oMq3o865os27p867qM+8qdHArNXBrdjDrNnFrdjFr9vFrtvJteHNtuDMt+LNt+DOuOLOuOPRu+PRvePTwAAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUYIKdV2bVhSARNFjUYgmItBBAUjCMdydOEADs=",
+        "width": 2625,
+        "height": 2250,
+        "alt_text": "A work made of etching on buff laid paper."
+      },
+      "main_reference_number": "1924.618",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1641,
+      "date_end": 1641,
+      "date_display": "1641",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Rembrandt van Rijn\nDutch, 1606-1669",
+      "place_of_origin": "Holland",
+      "description": null,
+      "dimensions": "Plate: 18.2 \u00d7 21.3 cm (7 3/16 \u00d7 8 7/16 in.); Sheet: 18.7 \u00d7 21.6 cm (7 3/8 \u00d7 8 9/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 21.3,
+          "width_in": 8.3859,
+          "height_cm": 18.2,
+          "height_in": 7.1654,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Plate"
+        },
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 21.6,
+          "width_in": 8.504,
+          "height_cm": 18.7,
+          "height_in": 7.3623,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": "Sheet"
+        }
+      ],
+      "medium_display": "Etching on buff laid paper",
+      "inscriptions": null,
+      "credit_line": "John H. Wrenn Memorial Collection",
+      "catalogue_display": "<p>Seidlitz 98</p><p>Hind 182</p><p>Bi\u00f6rklund 41-E</p><p>Rovinskii 98</p><p>Munz 196</p><p>Middleton 185</p><p>White & Boon 98</p><p>Bartsch 98 I/II</p><p>New Hollstein 186 II/IV</p>",
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 3,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 17.2621,
+      "color": {
+        "h": 37,
+        "l": 75,
+        "s": 28,
+        "percentage": 0.020837127495328053,
+        "population": 127
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan to Newberry Library in Chicago for <i>Seeing Race Before Race</i></p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Print",
+      "artwork_type_id": 18,
+      "department_title": "Prints and Drawings",
+      "department_id": "PC-13",
+      "artist_id": 40769,
+      "artist_title": "Rembrandt van Rijn",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        40769
+      ],
+      "artist_titles": [
+        "Rembrandt van Rijn"
+      ],
+      "category_ids": [
+        "PC-13"
+      ],
+      "category_titles": [
+        "Prints and Drawings"
+      ],
+      "term_titles": [
+        "etching",
+        "paper (fiber product)",
+        "print",
+        "prints and drawing",
+        "ink",
+        "paper",
+        "laid paper"
+      ],
+      "style_id": null,
+      "style_title": null,
+      "alt_style_ids": [],
+      "style_ids": [],
+      "style_titles": [],
+      "classification_id": "TM-18",
+      "classification_title": "etching",
+      "alt_classification_ids": [
+        "TM-17",
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_ids": [
+        "TM-18",
+        "TM-17",
+        "TM-4",
+        "TM-145"
+      ],
+      "classification_titles": [
+        "etching",
+        "print",
+        "prints and drawing",
+        "paper"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2982",
+      "alt_material_ids": [
+        "TM-2398",
+        "TM-3070"
+      ],
+      "material_ids": [
+        "TM-2982",
+        "TM-2398",
+        "TM-3070"
+      ],
+      "material_titles": [
+        "paper (fiber product)",
+        "ink",
+        "laid paper"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "6561d09e-7a49-394e-7ce1-ed7778ad0544",
+      "alt_image_ids": [
+        "c603bce8-ddde-2539-e808-814d4e942da9"
+      ],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1924.618"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "The Baptism of the Eunuch"
+          ],
+          "weight": 353,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:27-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 21977,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/21977",
+      "is_boosted": false,
+      "title": "Melon-Shaped Ewer with Stylized Flowers",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAKWnorG0qL28tsPGrMbFyNHSztPUz9rez83N1dbV19bW29PT3tbW3tnZ397g1ePn0eDg3tra4tra49vb5ODg5+Pi6Obk6+Ti7Obl7QAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYHRZ2NRATqEwxxMgkjEAS5UIBBUCADs=",
+        "width": 2265,
+        "height": 2250,
+        "alt_text": "A work made of stoneware with celadon glaze and underglaze incised decoration."
+      },
+      "main_reference_number": "1964.972",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1101,
+      "date_end": 1200,
+      "date_display": "Goryeo dynasty (918\u20131392), 12th century",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Korea",
+      "place_of_origin": "Korea",
+      "description": null,
+      "dimensions": "18.5 \u00d7 19.6 \u00d7 15.7 cm (7 1/4 \u00d7 7 3/4 \u00d7 6 3/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 15.7,
+          "depth_in": 6.1875,
+          "width_cm": 19.6,
+          "width_in": 7.75,
+          "height_cm": 18.5,
+          "height_in": 7.25,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Stoneware with celadon glaze and underglaze incised decoration",
+      "inscriptions": null,
+      "credit_line": "Bequest of Russell Tyson",
+      "catalogue_display": null,
+      "publication_history": null,
+      "exhibition_history": null,
+      "provenance_text": null,
+      "edition": null,
+      "publishing_verification_level": "Web Basic",
+      "internal_department_id": 8,
+      "fiscal_year": null,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": true,
+      "is_zoomable": true,
+      "max_zoom_window_size": -1,
+      "copyright_notice": null,
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 8.4987,
+      "color": {
+        "h": 37,
+        "l": 68,
+        "s": 77,
+        "percentage": 0.0002831120812418428,
+        "population": 2
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Vessel",
+      "artwork_type_id": 23,
+      "department_title": "Arts of Asia",
+      "department_id": "PC-7",
+      "artist_id": null,
+      "artist_title": null,
+      "alt_artist_ids": [],
+      "artist_ids": [],
+      "artist_titles": [],
+      "category_ids": [
+        "PC-7"
+      ],
+      "category_titles": [
+        "Arts of Asia"
+      ],
+      "term_titles": [
+        "ewer (vessel)",
+        "stoneware",
+        "Korean (culture or style)",
+        "stoneware",
+        "vessel",
+        "asian art",
+        "ceramics"
+      ],
+      "style_id": "TM-5182",
+      "style_title": "Korean (culture or style)",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-5182"
+      ],
+      "style_titles": [
+        "Korean (culture or style)"
+      ],
+      "classification_id": "TM-11952",
+      "classification_title": "ewer (vessel)",
+      "alt_classification_ids": [
+        "TM-279",
+        "TM-27",
+        "TM-26",
+        "TM-46"
+      ],
+      "classification_ids": [
+        "TM-11952",
+        "TM-279",
+        "TM-27",
+        "TM-26",
+        "TM-46"
+      ],
+      "classification_titles": [
+        "ewer (vessel)",
+        "stoneware",
+        "vessel",
+        "asian art",
+        "ceramics"
+      ],
+      "subject_id": null,
+      "alt_subject_ids": [],
+      "subject_ids": [],
+      "subject_titles": [],
+      "material_id": "TM-2484",
+      "alt_material_ids": [],
+      "material_ids": [
+        "TM-2484"
+      ],
+      "material_titles": [
+        "stoneware"
+      ],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "968e49fe-a6a4-bf2a-ce6e-948fa31f13ac",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1964.972"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Melon-Shaped Ewer with Stylized Flowers"
+          ],
+          "weight": 336,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:26-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 23700,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/23700",
+      "is_boosted": true,
+      "title": "The Praying Jew",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACIjIi4vLTQxKjc2Mj87NDw7NkZCO1NPRlhWUWFgV2NhXGplW2xpXGxsZm9vaIJ6a4mKgZWRg5SRh6ennQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoDMQQCMtATJBjHI8USEYSQgAOw==",
+        "width": null,
+        "height": null,
+        "alt_text": "Painting of man who is seated with his hands over his lap. He is dressed in prayer clothes, with a white shawl draped over his head and shoulders. His facial features and hands are slightly distorted, and the background is an abstract pattern of black and white."
+      },
+      "main_reference_number": "1937.188",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1923,
+      "date_end": 1923,
+      "date_display": "1923 (one of two versions after a 1914 composition)",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Marc Chagall\nBorn Vitebsk (formerly Russian Empire, now Belarus), 1887; died Saint-Paul, France, 1985",
+      "place_of_origin": "France",
+      "description": "<p>Marc Chagall had a prolific career that spanned more than eight decades of the twentieth century. While his work often exhibits influences of the contemporary movements he encountered in France and Germany, his subjects and decorative lyricism reveal his love of Russian folk art and his roots in Hasidic Judaism.</p>\n<p>In his 1931 autobiography, <em>My Life</em>, Chagall related how, while visiting Vitebsk (present-day Belarus), the city in which he was born, he realized that the traditions in which he had grown up were fast disappearing and that he needed to document them. He paid a man to pose in his father\u2019s prayer clothes and then painted him, limiting his palette primarily to black and white, as befit the solemnity of the subject. This portrait is noteworthy for the simplicity of its execution; nonetheless, its striking patterns, abstract background, and the slightly distorted features of the model demonstrate Chagall\u2019s absorption of modern trends, especially Cubism.</p>\n<p>Chagall often painted variants or replicas of works he particularly loved. The Art Institute\u2019s <em>Praying Jew</em> is one of three versions of this composition. He painted the original canvas in 1914, and when he traveled back to Paris in 1923, he took this painting with him. He learned upon his return that much of the work he had left in France had been lost during World War I. This prompted him to make two versions of <em>The Praying Jew</em> before it left his studio: they are the present work and another in the Ca\u2019 Pesaro, Venice; the original is now in the Kunstmuseum, Basel. The later compositions differ from the original only in small details.</p>\n",
+      "dimensions": "116.8 \u00d7 89.4 cm (46 \u00d7 35 3/16 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 0,
+          "depth_in": 0,
+          "width_cm": 89.4,
+          "width_in": 35.1875,
+          "height_cm": 116.8,
+          "height_in": 46,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Oil on canvas",
+      "inscriptions": "Signed, l.r.: \"MArc / ChAgAll\"",
+      "credit_line": "Joseph Winterbotham Collection",
+      "catalogue_display": null,
+      "publication_history": "Bulletin de l\u2019Effort Moderne 2 (February 1924), n.p. (ill.), as Le vieux rabbin, 1923.\n\nGeorge, Waldemar, Marc Chagall (Les Peintres Fran\u00e7ais Nouveaux, 31) (Paris: Gallimard, 1928), p. 43 (ill.), as Rabbin, 1914. \n\nCarl Einstein, Die Kunst des 20. Jahrhunderts, (Propyl\u00e4en Verlag: Berlin, 1928) pp. 485 (ill.), 567.\n\nArt Digest VII:16 (May 15, 1933), p. 25 (ill.), as Rabbi, n.d.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, exh. cat. (Chicago: Art Institute of Chicago, 1933), p. 80, cat. 725, pl. LXXIV, as Portrait of a Rabbi, n.d.\n\nDallas Museum of Fine Arts, The Centennial Exposition, exh. cat. (Dallas: Dallas Museum of Fine Arts, 1936), p. 42, cat. 21, as Portrait of a Rabbi, n.d.\n\nToledo Museum of Art, Contemporary Movements in European Painting, exh. cat. (Toledo, Ohio: Toledo Museum of Art, 1938), p. 16, cat. 13 (ill.), as Rabbi, 1914.\n\nThe Jewish Layman XVI:5 (January 1942), p. 8 (ill.), as Rabbi, n.d.\n\n\u201cThe Rabbi\u2014Marc Chagall,\u201d Daily News (July 11, 1942), p. 21 (ill.), as The Rabbi, n.d.\n\nMuseum of Modern Art, 20th Century Portraits, exh. cat. (New York: Museum of Modern Art, 1942), pp. 22, 64, and 135, as The Rabbi of Vitebsk, 1914.\n\nArts Club, Marc Chagall, exh. cat. (Chicago: Arts Club, 1945), n.p., cat. 28, as The Rabbi, n.d.\n\n\u201cMarc Chagall,\u201d Emporium CIV:623\u2013624 (November\u2013December 1946), p. 208 (ill.), as Rabbino, 1914.\n\nVenturi, Lionello, Marc Chagall (1945), cat. 10.    \n\nFrankfurter, Alfred M., \u201cThe Daring Chagall,\u201d Art News XLV:3 (May 1946), p. 25 (ill.), as The Praying Jew (Rabbi of Vitebsk), 1914.\n\nSweeney, James Johnson, Marc Chagall, exh. cat. (New York: Museum of Modern Art, 1946), pp. 31, 34\u201335, 53, and 87, cat. 18 (ill.), as The Praying Jew (The Rabbi of Vitebsk), 1914.\n\nArt Institute of Chicago, The Winterbotham Collection, exh. cat.  (Chicago: Art Institute of Chicago, 1947), pp. 5 and 9\u201310 (ill.), as The Rabbi of Vitebsk, 1914.\n\nMus\u00e9e National d'Art Moderne, Marc Chagall: Peintures 1908\u20131947, exh. cat. (Paris: Mus\u00e9e National d'Art Moderne, 1947), n.p., cat. 19, as Le Rabbin en Priere, n.d.\n\nMaritain, Ra\u00efssa, Chagall ou l\u2019orage Enchant\u00e9 (Geneva: \u00c9ditions des trios Collines, 1948), pp. 40 and 70 (ill.), as Le rabbin en pri\u00e8re, 1914\u20131923.\n\nArts Council of Great Britain, Marc Chagall, exh. cat. (London: Arts Council of Great Britain, 1948), p. 7, cat. 18, pl. VIII, as The Praying Jew, 1914.\n\nAyrton, Michael, Chagall (London, 1948), pp. 3\u20134, pl. 4.\n\n___, \u201cThe Art of Marc Chagall,\u201d The Listener XXXIX:994 (February 12, 1948), p. 254 (cover ill.), as The Rabbi of Vitebsk, n.d.\n\nCincinnati Art Museum, Cincinnati Biennial Festival of the Arts, Paintings: 1900\u20131925, exh. cat. (Cincinnati, Ohio: Cincinnati Art Museum, 1951), n.p., cat. 7, as The Rabbi, 1914. \n\nMasterpieces in The Art Institute of Chicago (Chicago, The Art Institute of Chicago: 1952), n.p. (ill.), as The Praying Jew (The Rabbi of Vitebsk), n.d.\n\nBaltimore Museum of Art, Man and His Years, exh. cat. (Baltimore, Md.: Baltimore Museum of Art, 1954), pp. 31\u201332, cat. 69 (ill.), as The Rabbi of Vitebsk, 1914.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Chicago: Art Institute of Chicago, 1961), pp. 74 and 469 (ill.), as The Praying Jew (The Rabbi of Vitebsk), 1914.\n\nBrion, Marcel, Chagall (New York: Harry N. Abrams, 1961), pp. 34\u201335 and 83 (ill.), as The Jew at Prayer, 1914.\n\nBarry, Edward, \u201cA Legacy that Grows\u2014Winterbotham Collection,\u201d The Chicago Tribune (August 25, 1963), p. F4.\n\nSpeyer, A. James, \u201cTwentieth-Century European Paintings and Sculpture,\u201d Apollo 84:55 (September 1966), p. 222, as Rabbi of Vitebsk, 1914.\n\nEl Mundo de los Museos, The Art Institute of Chicago (Madrid: Editorial Codex, S. A., 1967), pp. 13, 70 and 72, fig. 54.\n\nArnason, H. H.,  History of Modern Art (New York: Harry N. Abrams, 1968), p. 284, fig. 453, as The Praying Jew, 1914.\n\nMaxon, John, The Art Institute of Chicago (New York: Harry N. Abrams, 1970), p. 271 (ill), as The Praying Jew, 1914.\n\nKunstmuseum Bern, Sammlung im Obersteg, exh. cat. (Bern: Kunstmuseum Bern, 1975), n.p.\n\nDavies, Horton and Hugh Davies, Sacred Art in a Secular Society (Collegeville, Minn.: The Liturgical Press, 1978), pp. 21, pl. 6, 45, and 10, as The Praying Jew (The Rabbi of Vitebsk), 1914.\n\nArt Institute of Chicago, 100 Masterpieces (Chicago: Art Institute of Chicago, 1978), pp. 130\u2013131 (ill.), as The Praying Jew (The Rabbi of Vitebsk), 1914.\n\nSpeyer, A. James and Courtney Graham Donnell, Twentieth Century European Painting (Chicago: University of Chicago Press, 1980), p. 36, no. 1D1.\n\nCompton, Susan, Chagall, exh. cat. (London: Royal Academy of Arts, 1985), p. 186.\n\nWood, James N. and Katharine C. Lee, Master Paintings in The Art Institute of Chicago (Chicago: The Art Institute of Chicago, 1988), p. 130 (ill.), as The Praying Jew (Rabbi of Vitebsk), 1923.\n\nBarbican Art Gallery, Chagall to Kitaj: Jewish Experience in 20th Century Art, exh. cat. (London: Barbican Art Gallery, 1990), pp. 25, fig. 17, and p. 26, as The Praying Jew, 1923.\n\nNiigata Prefectural Museum of Modern Art, Masterworks of Modern Art from The Art Institute of Chicago, exh. cat. (Nagaoka, Japan: Niigata Prefectural Museum of Modern Art, 1994), pp. 110\u2013111, cat. 31 (ill.), as The Praying Jew, 1923 copy of a 1914 work.\n\nBaal-Teshuva, Jacob (editor), Chagall: A Retrospective (New York: Hugh Lauter Levin, 1995), pp. 134 (ill.), as The Praying Jew, 1923.\n\nDamp\u00e9rat, Marie-H\u00eal\u00e8ne, Sylvie Forestier, and Eric de Chassey, L\u2019ABCdaire de Chagall (Paris: Flammarion, 1995), pp. 70\u201371 (ill.), as Le Rabbin de Vitebsk, 1923.\n\nBaal-Teshuva, Jacob, Marc Chagall 1887\u20131985 (Kologne: Taschen, 1998), pp. 113\u2013114 (ill.), as Praying Jew, 1923.\n\nMarc Chagall: Ursprung und Wege, exh. cat. (Munich: Prestel, 1998), p. 214, as Der Jude in Schwarz-Wei\u00df.\n\nVoyages & rencontres de Marc Chagall, 1923\u20131939, exh. cat. (Nice, France: Mus\u00e9e National Message Biblique Marc Chagall, 1998), pp. 42 and 74 (ill.), as Le Juif en noir et blanc.\n\nWood, James N. and Debra N. Mancoff, Treasures from The Art Institute of Chicago (Chicago: The Art Institute of Chicago, 2000), p. 247 (ill.), as The Praying Jew, 1923 copy of 1914 work.\n\nHarshav, Benjamin, Marc Chagall and the Lost Jewish World: The Nature of Chagall\u2019s Art and Iconography (New York: Rizzoli, 2006), pp. 137 and 141, no. 81, as The Praying Jew, 1923.",
+      "exhibition_history": "New York, Museum of Modern Art, Summer Exhibition: Paintings and Sculpture, June 7\u2013October 30, 1932.\n\nChicago, Art Institute, A Century of Progress Exhibition of Paintings and Sculpture, June 1\u2013November 1, 1933, p. 80, cat. 725, pl. LXXIV, as Portrait of a Rabbi, n.d.\n\nDallas Museum of Fine Arts, The Centennial Exposition, June 6\u2013November 29, 1936, p. 42, cat. 21, as Portrait of a Rabbi, n.d.\n\nToledo Museum of Art, Contemporary Movements in European Painting, November 6\u2013December 11, 1938, p. 16, cat. 13 (ill.), as Rabbi, 1914.\n\nNew York, Museum of Modern Art, 20th Century Portraits, December 9, 1942\u2013January 24, 1943, pp. 22, 64, and 135, as The Rabbi of Vitebsk, 1914; traveled to the Baltimore Museum of Art, February 12\u2013March 7, 1943, and the Worcester Art Museum, March 24\u2013April 18, 1943. \n\nChicago, Arts Club, Marc Chagall, January 2\u201331, 1945, n.p., cat. 28, as The Rabbi, n.d.\n\nNew York, Museum of Modern Art, Marc Chagall, April 4\u2013June 23, 1946, pp. 31, 34\u201335, 53, and 87, cat. 18 (ill.), as The Praying Jew (The Rabbi of Vitebsk), 1914; traveled to Chicago,  Art Institute, November 14, 1936\u2013January 12, 1947.\n\nChicago, Art Institute, The Winterbotham Collection, May 23\u2013June 22, 1947, pp. 5 and 9\u201310 (ill.), as the Rabbi of Vitebsk, 1914.\n\nParis, Mus\u00e9e National d'Art Moderne, Marc Chagall: Peintures 1908\u20131947, October 17\u2013December 22, 1947, n.p., cat. 19, as Le Rabbin en Priere, n.d.; traveled to Amsterdam, Stedelijk Museum, December 8, 1947\u2013January 12, 1948, p. 13, cat. 17, as De rabbijn in gebed, 1914. \n\nLondon, Arts Council of Great Britain, organiser, Marc Chagall, p. 7, cat. 18, pl. VIII, as The Praying Jew, 1914; traveled to London, Tate Gallery, February 4\u201329, 1948.\n\nDallas Museum of Fine Arts, The Winterbotham Collection of 20th Century European Paintings from the Art Institute of Chicago, October 8\u2013November 5, 1949, no cat.\n\nCincinnati Art Museum, Cincinnati Biennial Festival of the Arts, Paintings: 1900\u20131925, February 2\u2013March 4, 1951, n.p., cat. 7, as The Rabbi, 1914. \n\nBaltimore Museum of Art, Man and His Years, October 19\u2013November 21, 1954, pp. 31\u201332, cat. 69 (ill.), as The Rabbi of Vitebsk, 1914.\n\nChicago, First National Bank, Chagall Window, September 12, 1972.\n\nLondon, Royal Academy of Arts, Chagall, 1985, hors. cat.; traveled to Philadelphia Museum of Art May 12\u2013July 7, 1985 (Philadelphia only).\n\nNagaoka, Japan, Niigata Prefectural Museum of Modern Art, Masterworks of Modern Art from The Art Institute of Chicago, April 20\u2013May 29, 1994, pp. 110\u2013111, cat. 31 (ill.), as The Praying Jew, 1923 copy of a 1914 work; traveled to Nagoya, Aichi Prefectural Museum of Art, June 10\u2013July 24, 1994; and Yokohama Museum of Art, August 6\u2013September 25, 1994.\n\nNew York, The Jewish Museum, Russian Jewish Artists in a Century of Change, 1890-1990, September 21, 1995\u2013January 28, 1996, pp. 158 and 248, fig. 17, as The Praying Jew (The Rabbi of Vitebsk), 1923.\n\nBerne, Museum of Fine Arts, Marc Chagall 1907\u20131917, 1995, hors. cat.; traveled to Los Angeles County Museum of Art, September 19, 1996\u2013January 5, 1997 (Los Angeles only).\n\nFort Worth, Kimbell Art Museum, The Age of Picasso and Matisse: Modern Masters from the Art Institute of Chicago, Oct. 6, 2013\u2013Feb. 16, 2014, no cat. no. ",
+      "provenance_text": "Sold through Pierre Loeb (1897\u20131964), Paris, to Patrick M. Sweeney, New York, 1924 [letter from James Sweeney, Sept. 1, 1975, in curatorial file]; sold to the Art Institute of Chicago, 1937.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 246,
+      "fiscal_year": 1940,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "\u00a9 2018 Artists Rights Society (ARS), New York / ADAGP, Paris",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 15.493,
+      "color": {
+        "h": 51,
+        "l": 50,
+        "s": 7,
+        "percentage": 0.05441860815268184,
+        "population": 506
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": null,
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Painting",
+      "artwork_type_id": 1,
+      "department_title": "Modern Art",
+      "department_id": "PC-11",
+      "artist_id": 33909,
+      "artist_title": "Marc Chagall",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        33909
+      ],
+      "artist_titles": [
+        "Marc Chagall"
+      ],
+      "category_ids": [
+        "PC-11"
+      ],
+      "category_titles": [
+        "Modern Art"
+      ],
+      "term_titles": [
+        "painting",
+        "Century of Progress",
+        "Modernism",
+        "prayer shawls",
+        "modern and contemporary art",
+        "world's fairs",
+        "Chicago World's Fairs",
+        "beards",
+        "praying",
+        "religious attire",
+        "religious figures",
+        "religion",
+        "Jewish people",
+        "Judaism",
+        "Joseph Winterbotham Collection"
+      ],
+      "style_id": "TM-5981",
+      "style_title": "Modernism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-5981"
+      ],
+      "style_titles": [
+        "Modernism"
+      ],
+      "classification_id": "TM-9",
+      "classification_title": "painting",
+      "alt_classification_ids": [
+        "TM-155"
+      ],
+      "classification_ids": [
+        "TM-9",
+        "TM-155"
+      ],
+      "classification_titles": [
+        "painting",
+        "modern and contemporary art"
+      ],
+      "subject_id": "TM-12169",
+      "alt_subject_ids": [
+        "TM-14273",
+        "TM-11299",
+        "TM-12176",
+        "TM-12347",
+        "TM-12734",
+        "TM-12732",
+        "TM-12554",
+        "TM-11421",
+        "TM-12731",
+        "TM-12592",
+        "TM-14413"
+      ],
+      "subject_ids": [
+        "TM-12169",
+        "TM-14273",
+        "TM-11299",
+        "TM-12176",
+        "TM-12347",
+        "TM-12734",
+        "TM-12732",
+        "TM-12554",
+        "TM-11421",
+        "TM-12731",
+        "TM-12592",
+        "TM-14413"
+      ],
+      "subject_titles": [
+        "Century of Progress",
+        "prayer shawls",
+        "world's fairs",
+        "Chicago World's Fairs",
+        "beards",
+        "praying",
+        "religious attire",
+        "religious figures",
+        "religion",
+        "Jewish people",
+        "Judaism",
+        "Joseph Winterbotham Collection"
+      ],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "0b5057af-97c6-5eb8-7328-fa9cf46d8751",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_boosted": "The Praying Jew",
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1937.188"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "The Praying Jew"
+          ],
+          "weight": 20003,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:25-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    },
+    {
+      "id": 25809,
+      "api_model": "artworks",
+      "api_link": "https://api.artic.edu/api/v1/artworks/25809",
+      "is_boosted": false,
+      "title": "Maquette for Richard J. Daley Center Sculpture",
+      "alt_titles": null,
+      "thumbnail": {
+        "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAG9SQ3FSRHFWSnpfU3VlXXxpX4FgUYxwX4x5cJaBeIqMjIuMja2qqq+urr+1ssSxqMCzrMW7t9fV1Nzc3AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoFIQC3MAjZQgUyQEkDMYTwgAOw==",
+        "width": 5484,
+        "height": 7320,
+        "alt_text": "Thin, flat metal shapes form a loosely symmetrical sculpture atop a wide base. Near the top, radiating spindles form an open, cone-like shape."
+      },
+      "main_reference_number": "1966.379",
+      "has_not_been_viewed_much": false,
+      "boost_rank": null,
+      "date_start": 1964,
+      "date_end": 1964,
+      "date_display": "1964",
+      "date_qualifier_title": "",
+      "date_qualifier_id": null,
+      "artist_display": "Pablo Picasso\nSpanish, active France, 1881\u20131973",
+      "place_of_origin": "Spain",
+      "description": "<p>Chicago\u2019s collection of public art was initiated on August 15, 1967, when Mayor Richard J. Daley dedicated an untitled sculpture commonly known as &quot;The Picasso&quot; in Chicago\u2019s new Civic Center (now the Richard J. Daley Center). Just four years earlier, architect William Hartmann of Skidmore, Owings &amp; Merrill had approached Pablo Picasso with the commission. The artist accepted and crafted two steel maquettes; he kept one in his studio and gave the other to the architect to use in planning. The sculpture\u2019s presence inspired private and public investment in more works for the cityscape over the years, including recent additions in nearby Millennium Park.</p>\n",
+      "dimensions": "104.8 \u00d7 69.9 \u00d7 48.3 cm (41 1/4 \u00d7 27 1/2 \u00d7 19 in.)",
+      "dimensions_detail": [
+        {
+          "depth_cm": 48.3,
+          "depth_in": 19,
+          "width_cm": 69.9,
+          "width_in": 27.5,
+          "height_cm": 104.8,
+          "height_in": 41.25,
+          "diameter_cm": 0,
+          "diameter_in": 0,
+          "clarification": null
+        }
+      ],
+      "medium_display": "Simulated and oxidized welded steel",
+      "inscriptions": null,
+      "credit_line": "Gift of Pablo Picasso",
+      "catalogue_display": null,
+      "publication_history": "\"The Chicago Picasso,\" Progressive Architecture (November 1966), p. 66 (ill.).\n\nMahroni Sharp Young, \"Letter from U.S.A.  From Wildenstein to Wilderness,\" Apollo 84 (December 1966), p. 504\u20135, fig. 8.\n\nThe Art Institute of Chicago, Annual Report (1966\u20131967), pp. 26\u201327 (ill.).\n\nChicago Picasso Dedication program (August 15, 1967) (ill.).\n\nLael Wertenbaker, The World of Picasso (New York: Time-Life Books, 1967), p. 153 (ill.).\n\n\u201cA Picasso Statue for Chicago,\u201d The Burlington Magazine 109:766 (January 1967), pp. 34\u201336, figs. 68 and 70.\n\nBurton Wasserman, \u201cPicasso: The Touch of Magic,\u201d Art Education 21:4 (April 1968), p. 29 (ill.).\n\nWerner Spies, Pablo Picasso: Das plastiche Werk (Stuttgart: Gerd Hatje, 1971), pp. 297 and 315, no. 643 (ill.).\n\nClarence Page, \u201cGiant Iron Sculpture: Picasso Leaves His Mark on the City,\u201d Chicago Tribune (April 9, 1973), section 1, p. 6.\n\nRoberto Otero, Forever Picasso: An Intimate Look at his Last Years (New York: Harry N. Abrams, 1974), pp. 46, 50, 52\u201355 (ill.).\n\nRoberto Otero, \u201cIt\u2019s more charming this way: How the master made us a gift,\u201d Chicago Guide, vol. 23, no. 10 (October 1974), pp. 86\u201387.\n\nMarilyn McCully, A Picasso Anthology: Documents, Criticism, Reminiscences (London: Arts Council of Great Britain, 1981), pp. 266\u2013267 (ill.).\n\nSally Fairweather, Picasso\u2019s Concrete Sculptures (New York: Hudson Hills Press, 1982), p. 85.\n\nPatricia Balton Stratton, \u201cChicago Picasso,\u201d MA thesis, Northwestern University, Evanston, Ill., 1982, fig. 4.\n\nMilwaukee Art Museum, Controversial Public Art: From Rodin to di Suvero, exh. cat. (Milwaukee, Wis.:  Milwaukee Art Museum, 1983), p. 40, cat. 32.\n\nSylvie Forestier, Pablo Picasso, La Guerre et la Paix (Paris: R\u00e9union des mus\u00e9es nationaux, 1991), pp. 83\u201384, fig. 66.\n\nCarsten-Peter Warncke, Pablo Picasso 1881\u20131973 II (Cologne: Benedikt Taschen, 1992), p. 579 (ill.).\n\nWerner Spies, Picasso: Das Plastiche Werk (Stuttgart: Gerd Hatje, 1998), pp. 370 and 403, no. 643.2b (ill.).\n\nThe Picasso Project, Picasso\u2019s Paintings, Watercolors, Drawings, and Sculpture: A Comprehensive Illustrated Catalogue 1885\u20131973, The Sixties II 1964\u20131967 (San Francisco: Alan Wofsy Fine Arts, 2002), p. 133, no. 64\u2013373 (ill.).\n\nLa epoca de Picasso: donaciones a los museos americanos (Santander: Fundaci\u00f3n Marcelino Bot\u00edn, 2004), pp. 43 and 247.\n\nMichael Fitzgerald, Picasso and American Art, Exh. cat. (Yale University Press, 2006), p. 258, ill. 260, pl. 133. \n\nStephanie D\u2019Alessandro and Ren\u00e9e DeVoe Mertz, The Age of Picasso and Matisse: Modern Art at the Art Institute of Chicago (Chicago: The Art Institute of Chicago, 2014), 13, fig. 5 (color ill.).\n\nCarmen Gim\u00e9nez, ed., with essays by Carmen Gim\u00e9nez, Diana Widmaier-Ruiz Picasso, and Pepe Karmel, Picasso Sculptor: Matter and Body, exh. cat. (Madrid: La F\u00e1brica, 2023), 17, fig. 11 (ill.), 46, 47, 133 (color ill.), 141 (color ill.).",
+      "exhibition_history": "London, Tate Gallery, Picasso Sculpture, Ceramics, Graphic Work, June 9\u2013Aug. 13, 1967, p. 108, cat. 203 (ill.).\n\nNew York, Museum of Modern Art, The Sculpture of Picasso, Oct. 9, 1967\u2013Jan. 7, 1968, pp. 206 and 225, cat. 204 (ill.).\n\nArt Institute of Chicago, Picasso in Chicago, Feb. 3\u2013Mar. 31, 1968, hors cat..\n\nNew York, Museum of Modern Art, Picasso Retrospective, May 1\u2013Sept. 16, 1980, p. 442 (ill.).\n\nMilwaukee Art Museum, Controversial Public Art: From Rodin to di Suvero, Oct. 21, 1983\u2013Jan. 15, 1984, p. 40, cat. 32.\n\nNew York, Whitney Museum of American Art, Picasso and American Art, Sept. 28, 2006\u2013Jan. 28, 2007, pp. 254, 258, 260, pl. 133, and 387; San Francisco Museum of Modern Art, Feb. 25\u2013May 28 2007; Minneapolis, Walker Art Center, June 17\u2013Sept. 9, 2007.\n\nNew York, Museum of Modern Art, Picasso Sculpture, Sept. 14, 2015\u2013Feb. 7, 2016; Paris, Mus\u00e9e Picasso, Mar. 8-Aug. 28, 2016.\n\nMalaga, Museo Picasso Malaga, Picasso Sculptor: Matter and Body, May 8\u2013Sept. 10, 2023, no cat. no.; Bilbao, Museo Guggenheim, Sept. 29, 2023\u2013Jan. 14, 2024 (Malaga only).",
+      "provenance_text": "The artist; given to the Art Institute, 1966.",
+      "edition": null,
+      "publishing_verification_level": "Web Cataloged",
+      "internal_department_id": 246,
+      "fiscal_year": 1967,
+      "fiscal_year_deaccession": null,
+      "is_public_domain": false,
+      "is_zoomable": true,
+      "max_zoom_window_size": 1280,
+      "copyright_notice": "\u00a9 2018 Estate of Pablo Picasso / Artists Rights Society (ARS), New York",
+      "has_multimedia_resources": false,
+      "has_educational_resources": false,
+      "has_advanced_imaging": false,
+      "colorfulness": 29.7175,
+      "color": {
+        "h": 200,
+        "l": 73,
+        "s": 1,
+        "percentage": 0.03226571767497034,
+        "population": 306
+      },
+      "latitude": null,
+      "longitude": null,
+      "latlon": null,
+      "is_on_view": false,
+      "on_loan_display": "<p>On loan</p>",
+      "gallery_title": null,
+      "gallery_id": null,
+      "nomisma_id": null,
+      "artwork_type_title": "Sculpture",
+      "artwork_type_id": 3,
+      "department_title": "Modern Art",
+      "department_id": "PC-11",
+      "artist_id": 36198,
+      "artist_title": "Pablo Picasso",
+      "alt_artist_ids": [],
+      "artist_ids": [
+        36198
+      ],
+      "artist_titles": [
+        "Pablo Picasso"
+      ],
+      "category_ids": [
+        "PC-11"
+      ],
+      "category_titles": [
+        "Modern Art"
+      ],
+      "term_titles": [
+        "sculpture",
+        "Cubism",
+        "abstract figures",
+        "modern and contemporary art",
+        "geometric",
+        "eyes"
+      ],
+      "style_id": "TM-7539",
+      "style_title": "Cubism",
+      "alt_style_ids": [],
+      "style_ids": [
+        "TM-7539"
+      ],
+      "style_titles": [
+        "Cubism"
+      ],
+      "classification_id": "TM-13",
+      "classification_title": "sculpture",
+      "alt_classification_ids": [
+        "TM-155"
+      ],
+      "classification_ids": [
+        "TM-13",
+        "TM-155"
+      ],
+      "classification_titles": [
+        "sculpture",
+        "modern and contemporary art"
+      ],
+      "subject_id": "TM-12688",
+      "alt_subject_ids": [
+        "TM-9124",
+        "TM-12103"
+      ],
+      "subject_ids": [
+        "TM-12688",
+        "TM-9124",
+        "TM-12103"
+      ],
+      "subject_titles": [
+        "abstract figures",
+        "geometric",
+        "eyes"
+      ],
+      "material_id": null,
+      "alt_material_ids": [],
+      "material_ids": [],
+      "material_titles": [],
+      "technique_id": null,
+      "alt_technique_ids": [],
+      "technique_ids": [],
+      "technique_titles": [],
+      "theme_titles": [],
+      "image_id": "6d377b31-7429-8d65-b6c4-51b6345e878a",
+      "alt_image_ids": [],
+      "document_ids": [],
+      "sound_ids": [],
+      "video_ids": [],
+      "text_ids": [],
+      "section_ids": [],
+      "section_titles": [],
+      "site_ids": [],
+      "suggest_autocomplete_all": [
+        {
+          "input": [
+            "1966.379"
+          ],
+          "contexts": {
+            "groupings": [
+              "accession"
+            ]
+          }
+        },
+        {
+          "input": [
+            "Maquette for Richard J. Daley Center Sculpture"
+          ],
+          "weight": 5710,
+          "contexts": {
+            "groupings": [
+              "title"
+            ]
+          }
+        }
+      ],
+      "source_updated_at": "2023-10-06T00:30:01-05:00",
+      "updated_at": "2023-10-06T00:31:24-05:00",
+      "timestamp": "2023-10-06T09:36:24-05:00"
+    }
+  ],
+  "info": {
+    "license_text": "The `description` field in this response is licensed under a Creative Commons Attribution 4.0 Generic License (CC-By) and the Terms and Conditions of artic.edu. All other data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+      "https://creativecommons.org/publicdomain/zero/1.0/",
+      "https://www.artic.edu/terms"
+    ],
+    "version": "1.9"
+  },
+  "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+  }
+}

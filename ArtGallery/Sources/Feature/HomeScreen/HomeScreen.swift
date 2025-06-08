@@ -12,8 +12,7 @@ struct HomeScreen: View {
     @StateObject private var viewModel: HomeViewModel = ViewModelProvider.instance
         .provideHomeViewModel()
       
-      @State var query: String = ""
-    
+    @State var query: String = ""
     @EnvironmentObject var navigationState: NavigationState
 
       private let columns = [

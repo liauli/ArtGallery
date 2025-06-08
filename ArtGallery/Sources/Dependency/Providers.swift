@@ -18,6 +18,7 @@ class RepositoryProvider {
     return GalleryRepositoryImpl(apiService)
   }
 }
+
 class ServiceProvider {
   static let instance = ServiceProvider()
 
@@ -25,6 +26,7 @@ class ServiceProvider {
     return APIServiceImpl(.shared)
   }
 }
+
 class ViewModelProvider {
   private let usecaseProvider = UsecaseProvider.instance
   static let instance = ViewModelProvider()
