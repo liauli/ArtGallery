@@ -10,15 +10,14 @@ on:
 
 jobs:
   setup:
-    runs-on: macos-latest
+    runs-on: macos-15
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' 
+          ruby-version: '3.3' 
           bundler-cache: true
       - name: Install dependencies
         run: bundle install
@@ -31,7 +30,7 @@ jobs:
 
   test:
     needs: setup  
-    runs-on: macos-latest
+    runs-on: macos-15
     steps:
       - uses: actions/cache/restore@v3
         id: restore-build
@@ -41,10 +40,12 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' 
+          ruby-version: '3.3' 
           bundler-cache: true
       - name: Install tuist
-        run: brew install --formula tuist
+        run: |
+          brew tap tuist/tuist
+          brew install --formula tuist
       - name: Install tuist
         run: tuist install
       - name: Generate tuist
@@ -100,7 +101,7 @@ jobs:
 
   lint:
     needs: setup 
-    runs-on: macos-latest
+    runs-on: macos-15
     steps:
       - uses: actions/cache/restore@v3
         id: restore-build
@@ -110,7 +111,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.0' 
+          ruby-version: '3.3' 
           bundler-cache: true
       - name: Install swiftlint
         run: brew install swiftlint
