@@ -13,7 +13,6 @@ class HomeViewModel: ObservableObject {
   private let searchGallery: SearchGallery
 
   private var cancellables: Set<AnyCancellable> = []
-    private var searchCancellables: AnyCancellable? = nil
 
   @Published private(set) var viewState: HomeViewState = HomeViewState()
   
